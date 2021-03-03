@@ -1,0 +1,20 @@
+{
+  "name": "final-project_e-commerce-shop",
+  "version": "1.0.0",
+  "description": "Final Project Online e-commerce shop",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCLAUDIA/Final-Project_E-commerce-shop.git"
+  },
+  "keywords": [
+    "FRONTEND/HTML/CSS/JS/ONLINE SHOP"
+  ],
+  "author": "Sarpe Claudia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SCLAUDIA/Final-Project_E-commerce-shop/issues"
+  },
+  "homepage": "https://github.com/SCLAUDIA/Final-Project_E-commerce-shop#readme"
+}
