@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SCLAUDIA/Final-Project_E-commerce-shop/issues"
   },
-  "homepage": "https://github.com/SCLAUDIA/Final-Project_E-commerce-shop#readme"
+  "homepage": "https://github.com/SCLAUDIA/Final-Project_E-commerce-shop#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }

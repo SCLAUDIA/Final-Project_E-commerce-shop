@@ -1,0 +1,584 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "ALPINA GRAP 2.0 Ski Helmet - Black",
+      "price": 55.11,
+      "description": "The Alpina Grap 2.0 Skihelm has proven a hundred thousand times and shows up in 2017 with the customary unbeatable fit and features such as Run System and Airstream Control.The outer shell, however, was completely redesigned to ventilation and optics: flattened vents for better Stromlinlienform, a new goggle strap holder for greater ease of use and a peak at the front of the helmet for sporty look. To the basic equipment of Grap 2.0 include a neck warmer and removable ears.The removable lining can be easily removed for washing and reinsert.",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/1_AlpinaGrap2.0SkiHelmet_Black.jpg",
+      "stock": 25,
+      "size": ["55-58"]
+    },
+    {
+      "id": 2,
+      "title": "SALOMON MIRAGE Ski Helmet - Black",
+      "price": 99.45,
+      "description": "Lightweight and streamlined: the Salomon Mirage W Ski Helmet is your missing puzzle piece for high-speed downhill runs. The international Ski Alpine elite swears on this one-of-a-kind speed gadget. uvex athletes from Matthias Mayer to Dominik Paris love this outstanding ski helmet. 16% stronger - 15% lighter - more than just a statement. The uvex race+ ski helmet meets the new FIS requirements from 2013/14 and complies with the EN 1077 A standard. Equipped with the latest ski helmet technologies, a separately available chin guard optionally can be mounted to this special ski helmet.",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/2_SalomonMirageWSkiHelmet_Black.jpg",
+      "stock": 15      ,
+      "size": ["53-56"]
+    },
+    {
+      "id": 3,
+      "title": "UVEX RACE Ski Helmet - Black",
+      "price": 125.78,
+      "description": "Lightweight and streamlined: the Salomon Mirage W Ski Helmet is your missing puzzle piece for high-speed downhill runs. The international Ski Alpine elite swears on this one-of-a-kind speed gadget. The Salomon Mirage W Ski Helmet meets the new FIS requirements from 2013/14 and complies with the EN 1077 A standard. Equipped with the latest ski helmet technologies, a separately available chin guard optionally can be mounted to this special ski helmet.",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/3_UvexRaceSkiHelmet_Black.jpg",
+      "stock": 10,
+      "size":["55-58"] 
+    },
+    {
+      "id": 4,
+      "title": "ALPINA ZUPO DISNEY_STAR WARS MULTICOLOR Ski Helmet",
+      "price": 60.89,
+      "description": "The smallest heads need the most protection. In the Disney collection, ALPINA has created exclusive designs for ZUPO kids ski helmets. Frozen II, Cars, Minnie Mouse and Star Wars heroes will be accompanying kids on their snow adventures next year. The stylish kids hard shell helmets from ALPINA are even more attractive with their robust shell and are comfortable to wear thanks to the soft ear covers. Pizza, Fries, PINEY! The style and shape of the PINEY kids ski goggles coordinates perfectly with ZUPO and guarantees optimal visibility. The contrast enhancing Hicon technology make the irregularities in the snow noticeable. A Fogstop layer keeps the lens from fogging up and active temperature regulation ensures that there is sufficient air ventilation. PINEY is therefore exactly the right goggles for ski learners.",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/4_AlpinaZupoDisneyStarWarsMulticolorSkiHelmet.jpg",
+      "stock": 5,
+      "size": ["51-55"]
+    },
+    {
+      "id": 5,
+      "title": "ALPINA ATTELAS VISOR QVM Ski Helmet - Black",
+      "price": 125.78,
+      "description": "The Alpina Attelas Visor has proven a hundred thousand times and shows up in 2017 with the customary unbeatable fit and features such as Run System and Airstream Control.The outer shell, however, was completely redesigned to ventilation and optics: flattened vents for better Stromlinlienform, a new goggle strap holder for greater ease of use and a peak at the front of the helmet for sporty look. To the basic equipment of Grap 2.0 include a neck warmer and removable ears.The removable lining can be easily removed for washing and reinsert.",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/5_AlpinaAttelasVisorQVMMblack_silverSkiHelmet.jpg",
+      "stock": 8,
+      "size": ["55-58"]
+    },
+    {
+      "id": 6,
+      "title": "ALPINA JUMP 2 HM Ski Helmet - Black",
+      "price": 289.55,
+      "description": "Patented volume adjusting system Ergo3 for optimum size adjustment, QuattroVarioflex visor: polarising, contrast-enhancing lens for all weather conditions, Visor provides optimum protection and 180-degree field of view, Outstanding climate regulation thanks to One Touch Ventilation, High-quality, comfortable interior fittings.",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/6_AlpinaJUMP2_HMblackSkiHelmet.jpg",
+      "stock": 5,
+      "size": ["53-56"]
+    },
+    {
+      "id": 7,
+      "title": "ALPINA JUMP 2 HM Ski Helmet - White",
+      "price": 289.55,
+      "description": "Patented volume adjusting system Ergo3 for optimum size adjustment, QuattroVarioflex visor: polarising, contrast-enhancing lens for all weather conditions, Visor provides optimum protection and 180-degree field of view, Outstanding climate regulation thanks to One Touch Ventilation, High-quality, comfortable interior fittings.",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/7_AlpinaJUMP2_HMwhiteSkiHelmet.jpg",
+      "stock": 25,
+      "size": ["53-56"]
+    },
+    {
+      "id": 8,
+      "title": "ALPINA MAROI CURRY Ski Helmet",
+      "price": 289.66,
+      "description": "The minimalist appearance is characterised by subtle lines and the high-quality aluminium logo. The clear, tailored design results in a modern, unmistakable, timeless shape. Edge Protect protects the helmet in the front area and soft surface transitions add a touch of refinement the surface. The top is defined by discreet air vents which are integrated at strategically important points. Active ventilation continuously floods the Air Channels with sufficient air. Inside, a channelling system in the EPS directs the air flow around the entire head. This provides cooling air while simultaneously conducting heat away. The new ear construction also ensures a very high level of comfort.",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/8_AlpinaMaroiCurry_greySkiHelmet.jpg",
+      "stock": 3,
+      "size": ["53-56"]
+    },
+    {
+      "id": 9,
+      "title": "SALOMON QUEST BLEUMARIN Ski Helmet",
+      "price": 188.96,
+      "description": "The Quest ski helmet from Salomon was designed to deliver maximum protection on the on and off-piste, making it an excellent option for freeriding as well. Plus, the weather won't be able to stop you, either, thanks to the Twinshell ventilation system and Thermo Control System. The Twinshell ventilation system will ensure that you get the airflow you need when the going gets tough, whilst the TCS regulates your temperature so that you don't get too cold. The helmet comes equipped with the Custom Air fit system as well, which allows you adjust the ski helmet for a personalised fit and optimum protection.For some entertainment long the way, the removable faux fur ear pads are audio system compatible.",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/9_SalomonQuestBleumarinSkiHelmet.jpg",
+      "stock": 6,
+      "size": ["55-58"]
+    },
+    {
+      "id": 10,
+      "title": "ROSSIGNOL TACTIC SAFETY Ski Poles",
+      "price": 47.97,
+      "description": "The Tactic Pro safety ski pole delivers a balanced lightweight feel and durability for all-mountain skiing. The ergonomic grips feature safety straps that release under pressure, letting the pole drop away in the event of a fall. Lightweight Strength, Aluminum zicral shaft construction offers a great balance of lightness, durability and strength, Comfortable Grip, Bi-injected components help absorb vibration transmitted up the pole for a more secure grip and all-day comfort. ",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/10_RossignolTACTIC_SAFETY_Poles.jpg",
+      "stock": 6,
+      "size": [110]
+    },
+    {
+      "id": 11,
+      "title": "ARMADA TRIAD WOMEN Ski Poles",
+      "price": 56.87,
+      "description": "The Armada Triad Women's Ski Poles are a great all-mountain accessory at a great price. They are constructed with 6061es aluminum that is light yet super durable. A tactile-rubber round grip feels great on your hands while steel tips give you solid grip. Plant turns in style with the Triad Women's ski poles from Armada. 6061 Aluminum Shaft, 18mm Diameter, EVA Foam Grip, 60mm Basket, Steel Tip",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/11_ArmadaTriadWomenSki_Poles.jpg",
+      "stock": 16,
+      "size": [110]
+    },
+    {
+      "id": 12,
+      "title": "ATOMIC AMT Black/Grey Ski Poles",
+      "price": 56.87,
+      "description": "The  Atomic Amt safety ski pole delivers a balanced lightweight feel and durability for all-mountain skiing. The ergonomic grips feature safety straps that release under pressure, letting the pole drop away in the event of a fall. Lightweight Strength, Quick-Release Straps, Safety grip quickly disengages the pole strap from the grip in the event of a fall or avalanche involvement, Aluminum zicral shaft construction offers a great balance of lightness, durability and strength.  ",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/12_AtomicAmtBlack_GreySki_Poles.jpg",
+      "stock": 14,
+      "size": ["90","95"]
+    },
+    {
+      "id": 13,
+      "title": "ARMADA LEGION SAFETY Ski Poles",
+      "price": 89.75,
+      "description": "The Armada Legion safety ski pole delivers a balanced lightweight feel and durability for all-mountain skiing. The ergonomic grips feature safety straps that release under pressure, letting the pole drop away in the event of a fall. Lightweight Strength, Aluminum zicral shaft construction offers a great balance of lightness, durability and strength, Comfortable Grip, Bi-injected components help absorb vibration transmitted up the pole for a more secure grip and all-day comfort. ",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/13_ArmadaLegionSafetySki_Poles.jpg",
+      "stock": 6,
+      "size": [110]
+    },
+    {
+      "id": 14,
+      "title": "ARMADA LEGION GOLD Ski Poles",
+      "price": 112.32,
+      "description": "The Armada Legion safety ski pole delivers a balanced lightweight feel and durability for all-mountain skiing. The ergonomic grips feature safety straps that release under pressure, letting the pole drop away in the event of a fall. Lightweight Strength, Aluminum zicral shaft construction offers a great balance of lightness, durability and strength, Comfortable Grip, Bi-injected components help absorb vibration transmitted up the pole for a more secure grip and all-day comfort. ",
+      "category": "accessories",
+      "image": "./POZE PRODUSE/ACCESORII/14_ArmadaLegionGoldSki_Poles.jpg",
+      "stock": 12,
+      "size": ["120","125"]
+    },
+    {
+      "id": 15,
+      "title": "SALOMON S PRO 90 Ski Boots - White",
+      "price": 243.68,
+      "description": "The Salomon S/Pro 90 CHC W is built for the advanced to expert woman skiers with a medium forefoot and medium calf volume. It features a Polyurethane Shell that comes with Custom Shell HD technology for more power and direction transmission. The sense amplifier technology makes for precision at the beginning of every turn, while getting quicker edge to edge transfer at the end of your turns. With the My Custom Heat liner and Custom Heat Connect technology, you'll have guaranteed warmth for up to 18 hours and will even be able to use the mobile app to adjust the temperature to your liking. The lightweight two piece, four buckle shell will keep your foot locked in place to help you drive power to your edges which creates a locked in feel that inspires confidence and control over the entire mountain.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/15_SalomonSPRO_90_CHCWhite_Woman_SkiBoots.jpg",
+      "stock": 3,
+      "size": ["24-24.5"]
+    },
+    {
+      "id": 16,
+      "title": "SALOMON X ACCESS 90 Ski Boots",
+      "price": 355.89,
+      "description": "Brand new for this season, the Salomon Ski X ACCESS 90 is an ideal boot for an intermediate to advanced man skier that is looking for a lightweight and customizable option. Its lightweight feel and step-in construction pairs well with the seamless liners for a more comfortable fit that will keep you on the slopes all day. The Custom Shell HD allows for a customized personal fit to improve power and transmission. Women specific calf adjusters and sense straps give rebound without sacrificing comfort. The Sense Amplifier cuffs make for a quicker edge transfer coming out of your turns, while the 4 Aluminum Buckles ensure easy adjustment while on the mountain. ",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/16_SalomonSkiXACCESS90_Men_SkiBoots.jpg",
+      "stock": 7,
+      "size": ["29-29.5"]
+    },
+    {
+      "id": 17,
+      "title": "SALOMON S MAX 60T - Children Ski Boots",
+      "price": 123.66,
+      "description": "Get your little lady a boot that she can continue to progress in with the Salomon Ski S/Max 60T L. Junior Cellular Design brings the shell closer to the foot while using thinner plastic for a lighter weight boot with a more consistent flex. The Comfort Fit Liner provides your young lady with all day comfort for longer sessions on the mountain. 3 Buckle Design is a great learning tool for young skiers to learn to buckle their own boots and find their own feel. Stay warm and comfortable on the slopes with the Rossignol Fun Girl J3 Ski Boot. ",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/17_SalomonSkiS_Max60T_Children_SkiBoots.jpg",
+      "stock": 8,
+      "size": ["24-24.5"]
+    },
+    {
+      "id": 18,
+      "title": "SALOMON S PRO100 Ski Boots",
+      "price": 269.33,
+      "description": "The Salomon S/Pro 100 are built for skiers that prioritize comfort. This boot is ideal for the Advanced intermediate to Expert level skier. Its custom HD shell and cuff make for a lighter material for a powerful and progressive feel. The Coreframe 360 technology brings full customization possibilities that will still keep its geometry and stiffness, while the new pre-shaped design liner comes without internal or external stitches to improve comfort and warmth. The Core Frame construction on this boot run under the midfoot to stiffen the shell where you drive the ski without the added weight and delivers maximum power transmission to the edges. The Aluminum 3D buckles provide optimum in-step comfort, full customization and personalized foot hold. A new seamless liner will eliminate the common problem areas around the toe box for added comfort.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/18_SalomonSkiS_PRO100_Men_SkiBoots.jpg",
+      "stock": 10,
+      "size": ["27-27.5","28-28.5","29-29.5"]
+    },
+    {
+      "id": 19,
+      "title": "SALOMON S MAX130 Ski Boots",
+      "price": 355.89,
+      "description": "The Salomon S/Pro 100 are built for skiers that prioritize comfort. This boot is ideal for the Advanced intermediate to Expert level skier. Its custom HD shell and cuff make for a lighter material for a powerful and progressive feel. The Coreframe 360 technology brings full customization possibilities that will still keep its geometry and stiffness, while the new pre-shaped design liner comes without internal or external stitches to improve comfort and warmth. The Core Frame construction on this boot run under the midfoot to stiffen the shell where you drive the ski without the added weight and delivers maximum power transmission to the edges. The Aluminum 3D buckles provide optimum in-step comfort, full customization and personalized foot hold. A new seamless liner will eliminate the common problem areas around the toe box for added comfort.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/19_SalomonSkiS_Max130_Men_SkiBoots.jpg",
+      "stock": 15,
+      "size": ["29-29.5"]
+    },
+    {
+      "id": 20,
+      "title": "SALOMON QST ACCESS 80W Ski Boots",
+      "price": 243.68,
+      "description": "The Salomon QST Access 80 CH Women's ski boots are a great option for intermediate to advanced intermediate level skiers with a wide forefoot and high calf volume. It features Custom Heat technology and a Woolmetal layer inserted into the liner, which guarantees warmth for 4-18 hours. The women specific liner provides better shin and instep comfort in sensitive foot zones, while the 360 degree light 45mm strap holds the foot in place for optimum power transmission. Hike and ride technology allows you to free the cuff from the shell for maximum range of motion when you want to skin up to your favorite peak or to the parking lot at the end of the day.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/20_Salomon_QSTAccess80W_SkiBoots.jpg",
+      "stock": 3,
+      "size": ["24-24.5"]
+    },
+    {
+      "id": 21,
+      "title": "ATOMIC HAWX ULTRA 120 Ski Boots",
+      "price": 365.45,
+      "description": "Light weight and high performance come together in the Atomic Hawx Ultra 120 S – and it’s got the Legendary Hawx Feel in a narrow 98mm last. The pre-shaped Memory Fit 3D Platinum liner offers an incredible first fit – and the Memory Fit process makes for a perfect fit in minutes. It’s part of the lightest alpine ski boot range we’ve ever made, thanks to Prolite – our revolutionary light construction with added reinforcements in key zones – cutting weight by 25%. They also feature Power Shift, Cuff Alignment and our Cantable Grip Pads, making them some of the most customizable boots to date. For strong skiers, it performs under even the most demanding conditions. You’ll get ski-all-day comfort, and still be able to push your skis and your skiing as hard as your body and mind are willing.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/21_AtomicHawx_Ultra_120_SkiBoots.jpg",
+      "stock": 4,
+      "size": ["27-27.5","28-28.5","29-29.5"]
+    },
+    {
+      "id": 22,
+      "title": "SALOMON QST PRO 80 Ski Boots",
+      "price": 355.89,
+      "description": "Salomon Qst Pro 80 is a great option for expert level skiers with a Medium Width Forefoot and High Calf Volume. The Custom Shell HD Shell and Cuff uses thinner materials in the construction process resulting in a lightweight but performance filled boot. Take the boot into a qualified ski shop and get your S/Pro custom heat molded to your foot. Coreframe 360 ensures a pro fit for proper power transmission and enhanced feel and is considered a boot fitters best friend. The Sensifit Insert uses softer PU on the external part of the shell making it effortless to step into your boot. The My Custom Fit 3D Seamless Race Liner hugs your foot and provides maximum comfort for those longer days on the slopes. Edging gets easier with Sense Amplifier that lets you feel more controlled while getting the ski on edge. Rip down the entire mountain with the Salomon S/Pro 130.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/22_Salomon_QstPro80_SkiBoots.jpg",
+      "stock": 9,
+      "size": ["23-23.5","24-24.5"]
+    },
+    {
+      "id": 23,
+      "title": "SALOMON X PRO 120 Ski Boots",
+      "price": 123.66,
+      "description": "The X-Pro 120 from Salomon is an excellent option for the expert skier who is looking for power, performance and customization. Salomon's 24mm Oversized Pivot adds a beastly connection between the upper cuff and lower shell than add more power transmission to your skis. The TwinFrame2 Technology adds extra reinforcements to the sole and spine of the shell that adds rebound and responsiveness while reducing the twisting of the shell when you are ripping at high speeds. The My Custom Fit 3D Race Liner is loaded with anti-packing foam to deliver a secure fit with added energy transfer. Salomon's 360 Degree Custom Shell offers you a comfortable and performance oriented fit in a matter of minutes. An Authorized Salomon Dealer will heat the shell in a special oven, and then place the boot on your feet. As the shell starts to cool it will mold and adapt to the shape of your foot. The 45mm Power Strap cinches tightly across your shin and enhances rebound to each turn you make.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/23_SalomonXPro120white_SkiBoots.jpg",
+      "stock": 5,
+      "size": ["27-27.5","28-28.5","29-29.5"]
+    },
+    {
+      "id": 24,
+      "title": "SALOMON QST PRO 90 Ski Boots",
+      "price": 269.33,
+      "description": "The Qst Pro 90  from Salomon is an excellent option for the expert skier who is looking for power, performance and customization. Salomon's 24mm Oversized Pivot adds a beastly connection between the upper cuff and lower shell than add more power transmission to your skis. The TwinFrame2 Technology adds extra reinforcements to the sole and spine of the shell that adds rebound and responsiveness while reducing the twisting of the shell when you are ripping at high speeds. The My Custom Fit 3D Race Liner is loaded with anti-packing foam to deliver a secure fit with added energy transfer. Salomon's 360 Degree Custom Shell offers you a comfortable and performance oriented fit in a matter of minutes. An Authorized Salomon Dealer will heat the shell in a special oven, and then place the boot on your feet. As the shell starts to cool it will mold and adapt to the shape of your foot. The 45mm Power Strap cinches tightly across your shin and enhances rebound to each turn you make.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/24_SalomonQstPro90_SkiBoots.jpg",
+      "stock": 12,
+      "size": ["27-27.5","28-28.5","29-29.5"]
+    },
+    {
+      "id": 25,
+      "title": "ROSSIGNOL ALLTRACK PRO 80W Ski Boots",
+      "price": 355.89,
+      "description": "The new Rossignol ALLTRACK PRO 80 is a powerful ski boot for aggressive skiers looking for a wide fit in the forefoot and medium to high calf volume. Rossignol's Sensor Matrix Shell has a strategically placed grid on the upper cuff and lower shell that reduce the total weight of the boot, enhance energy transmission and deliver a torsionally rigid responsiveness when you are cranking turns at high speeds. The new WinTherm insulation has a highly breathable aluminum membrane that reflects heat back to your feet for extra warmth on cold days. Rossi's Optisensor Liner has dual density 3D molded padding and more rigid material in the heel that provides your foot with a performance oriented wrap with a comfortable feel. The Posi-Block Ski/Hike Mechanism unlatches the upper cuff from the lower shell so you can hike with ease the next time you want to get into something deep and gnarly. An Easy Entry Insert uses a softer plastic insert across the instep that makes the Track 130 effortless to slide on your feet.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/25_RossignolALLTRACK_PRO80W_SkiBoots.jpg",
+      "stock": 6,
+      "size": ["25"]
+    },
+    {
+      "id": 26,
+      "title": "ROSSIGNOL HERO WORLD CUP 130 Ski Boots",
+      "price": 243.6,
+      "description": "TheRossignol Hero World Cup 90 is an awesome option for intermediate to advanced level guys looking for a comfortable boot to take into the backcountry. The comfortable Full Custom T2 Liner is pre shaped around the ankle for a more secure fit while EVA foam is strategically placed for maximum comfort. The liner is backed up with Thinsulate information for lots of warmth for the coldest days in the backcountry. Low Tech Inserts provides a secure fit to pin touring bindings while delivering proper power transmission and controlled steering. Hike Mode 2.0 allows the cuff the release from the shell for fluent and natural hiking motions when it's time to hike up to your destination. Walking around surface is made easier and safer with the integrated GripWalk Soles which provides boot like tread for tons of traction. Get into the backcountry with a boot that can support any adventure with the Rossignol Alltrack Pro 110 LT GW.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/26_RossignolHERO_WORLD_CUP130MEDIUM_SkiBoots.jpg",
+      "stock": 3,
+      "size": ["22","23","25"]
+    },
+    {
+      "id": 27,
+      "title": "ROSSIGNOL ALLTRACK PRO100 Ski Boots",
+      "price": 365.45,
+      "description": "The new Rossignol ALLTRACK PRO 100 is a powerful ski boot for aggressive skiers looking for a wide fit in the forefoot and medium to high calf volume. Rossignol's Sensor Matrix Shell has a strategically placed grid on the upper cuff and lower shell that reduce the total weight of the boot, enhance energy transmission and deliver a torsionally rigid responsiveness when you are cranking turns at high speeds. The new WinTherm insulation has a highly breathable aluminum membrane that reflects heat back to your feet for extra warmth on cold days. Rossi's Optisensor Liner has dual density 3D molded padding and more rigid material in the heel that provides your foot with a performance oriented wrap with a comfortable feel. The Posi-Block Ski/Hike Mechanism unlatches the upper cuff from the lower shell so you can hike with ease the next time you want to get into something deep and gnarly. An Easy Entry Insert uses a softer plastic insert across the instep that makes the Track 130 effortless to slide on your feet.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/27_RossignolAlltrackPro100_Bordeaux_SkiBoots.jpg",
+      "stock": 3,
+      "size": ["27.5","28"]
+    },
+    {
+      "id": 28,
+      "title": "ROSSIGNOL HERO WORLD CUP 90 Ski Boots",
+      "price": 269.33,
+      "description": "The new Rossignol HERO WORLD CUP 130 is a powerful ski boot for aggressive skiers looking for a wide fit in the forefoot and medium to high calf volume. Rossignol's Sensor Matrix Shell has a strategically placed grid on the upper cuff and lower shell that reduce the total weight of the boot, enhance energy transmission and deliver a torsionally rigid responsiveness when you are cranking turns at high speeds. The new WinTherm insulation has a highly breathable aluminum membrane that reflects heat back to your feet for extra warmth on cold days. Rossi's Optisensor Liner has dual density 3D molded padding and more rigid material in the heel that provides your foot with a performance oriented wrap with a comfortable feel. The Posi-Block Ski/Hike Mechanism unlatches the upper cuff from the lower shell so you can hike with ease the next time you want to get into something deep and gnarly. An Easy Entry Insert uses a softer plastic insert across the instep that makes the Track 130 effortless to slide on your feet.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/28_RossignolHeroWorldCup90Sc_White_SkiBoots.jpg",
+      "stock": 3,
+      "size": ["26.5"]
+    },
+    {
+      "id": 29,
+      "title": "ROSSIGNOL ALLTRACK PETROLE/BLU Ski Boots",
+      "price": 355.89,
+      "description": "The new Rossignol ALLTRACK PRO 120 is a powerful ski boot for aggressive skiers looking for a wide fit in the forefoot and medium to high calf volume. Rossignol's Sensor Matrix Shell has a strategically placed grid on the upper cuff and lower shell that reduce the total weight of the boot, enhance energy transmission and deliver a torsionally rigid responsiveness when you are cranking turns at high speeds. The new WinTherm insulation has a highly breathable aluminum membrane that reflects heat back to your feet for extra warmth on cold days. Rossi's Optisensor Liner has dual density 3D molded padding and more rigid material in the heel that provides your foot with a performance oriented wrap with a comfortable feel. The Posi-Block Ski/Hike Mechanism unlatches the upper cuff from the lower shell so you can hike with ease the next time you want to get into something deep and gnarly. An Easy Entry Insert uses a softer plastic insert across the instep that makes the Track 130 effortless to slide on your feet.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/29_RossignolAlltrackPro120LtPetroleBlu_SkiBoots.jpg",
+      "stock": 3,
+      "size": ["28","29"]
+    },
+    {
+      "id": 30,
+      "title": "SCOTT SUPERGUIDE CARBON 125 Ski Boots",
+      "price": 123.66,
+      "description": "The lightweight SCOTT Superguide boot is mobile and comfortable on the ups, with solid, precise stability on the downs. The Rear Hook Walk System is simple, strong, and dependable, allowing a high range of friction-free motion for walking with powerful energy transfer.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/30_ScottSuperguideCarbon125LimeGreen_Black_SkiBoots.jpg",
+      "stock": 10,
+      "size": ["27.5"]
+    },
+    {
+      "id": 31,
+      "title": "ARMADA TRACER 98 Ski Set",
+      "price": 526.68,
+      "description": "The crown jewel of the Tracer Series, the Tracer 98 is your everyday off-piste ski built with versatility in mind. A layer of Adaptive Mesh keeps the ride damp and stable while the beveled top-edges create a lighter ski that can handle anything your ski legs throw its way. For 19/20 we paired a superlight, 100% Caruba Wood core to a more durable fiberglass construction making the Tracer 98 even lighter and more durable. The quickest edge-to-edge and best performing on the hardpack the Tracer 98 is the true 1-ski quiver from resort to backcountry.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/31_ARMADA_TRACER98_ARWARDEN13_skiSet.jpg",
+      "stock": 15,
+      "size": ["172","180"]
+    },
+    {
+      "id": 32,
+      "title": "ARMADA TRACER 108 Ski Set",
+      "price": 532.75,
+      "description": "Even though the Tracer 108 is firmly focused on outstanding downhill performance, we’re always searching for the perfect combination of weight reduction and stability in this category. That’s why for 19/20 we paired an even lighter Poplar-Caruba wood core to a larger fiberglass package resulting in further decreased weight and added durability. The Tracer 108 ups the performance ante with dampening Adaptive Mesh, Titanal Reinforcement underfoot and AR 75 Sidewall construction to create just the right feel whether used by freeriding or touring enthusiasts. The most versatile alpine binding yet, the Armada WARDEN MNC 13 delivers great transmission and power in any condition. Pair with any Armada Ski and you’ll find consistent drive and release performance with alpine and touring boots alike.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/32_ARMADA_TRACER_108_ARWARDEN13_skiSet.jpg",
+      "stock": 3,
+      "size": ["172","180","188"]
+    },
+    {
+      "id": 33,
+      "title": "ARMADA KIRTI AR NR C5 Ski Set",
+      "price": 133.03,
+      "description": "Even though the Tracer 108 is firmly focused on outstanding downhill performance, we’re always searching for the perfect combination of weight reduction and stability in this category. That’s why for 19/20 we paired an even lighter Poplar-Caruba wood core to a larger fiberglass package resulting in further decreased weight and added durability. The Tracer 108 ups the performance ante with dampening Adaptive Mesh, Titanal Reinforcement underfoot and AR 75 Sidewall construction to create just the right feel whether used by freeriding or touring enthusiasts. The most versatile alpine binding yet, the Armada WARDEN MNC 13 delivers great transmission and power in any condition. Pair with any Armada Ski and you’ll find consistent drive and release performance with alpine and touring boots alike.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/33_ARMADA_KIRTI_ARNRC5_skiSet.jpg",
+      "stock": 4,
+      "size": ["120","130"]
+    },
+    {
+      "id": 34,
+      "title": "ARMADA BANTAM AR NR C5 Ski Set",
+      "price": 133.03,
+      "description": "Even though the Tracer 108 is firmly focused on outstanding downhill performance, we’re always searching for the perfect combination of weight reduction and stability in this category. That’s why for 19/20 we paired an even lighter Poplar-Caruba wood core to a larger fiberglass package resulting in further decreased weight and added durability. The Tracer 108 ups the performance ante with dampening Adaptive Mesh, Titanal Reinforcement underfoot and AR 75 Sidewall construction to create just the right feel whether used by freeriding or touring enthusiasts. The most versatile alpine binding yet, the Armada WARDEN MNC 13 delivers great transmission and power in any condition. Pair with any Armada Ski and you’ll find consistent drive and release performance with alpine and touring boots alike.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/34_ARMADA_BANTAM_AR_NR_C5_skiSet.jpg",
+      "stock": 9,
+      "size": ["120"]
+    },
+    {
+      "id": 35,
+      "title": "ATOMIC REDSTER J4 Ski Set",
+      "price": 206.42,
+      "description": "The Atomic L6 GW is made for children and teenagers. It’s a system binding that’s lightweight, but extremely easy to use – requiring less effort to click the heels in thanks to the clever brake concept. The Automatic Toe Height Adjustment adapts to any alpine-normed boot – including those with GripWalk – and ensures constant release values even when a boot is heavily worn. Kid’s ski gear that simply works.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/35_AtomicREDSTER_J4_skiSet.jpg",
+      "stock": 10,
+      "size": ["150"]
+    },
+    {
+      "id": 36,
+      "title": "ATOMIC VANTAGE WMM 75C Ski Set",
+      "price": 289.35,
+      "description": "The qualities of the Atomic Vantage 75 C are simply defined. Stability. Control. Easy handling. Built for skiers who ski mainly on groomed terrain, this confidence-boosting frontside system ski delivers the power and precision of an on-piste ski with the agility of an all-mountain ski. One of the lightest skis in the Vantage collection, it features a layer of rigid woven Carbon Tank Mesh that adds strength across the ski while actually reducing weight overall. Perfect for novice to intermediate skiers looking to improve their skills, the narrower profile is ideal for groomed and harder snow conditions where edge control is essential.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/36_AtomicVANTAGE_WMN_75C_skiSet.jpg",
+      "stock": 15,
+      "size": ["147","161"]
+    },
+    {
+      "id": 37,
+      "title": "ATOMIC VANTAGE 75C Ski Set",
+      "price": 198.66,
+      "description": "The qualities of the Atomic Vantage 75 C are simply defined. Stability. Control. Easy handling. Built for skiers who ski mainly on groomed terrain, this confidence-boosting frontside system ski delivers the power and precision of an on-piste ski with the agility of an all-mountain ski. One of the lightest skis in the Vantage collection, it features a layer of rigid woven Carbon Tank Mesh that adds strength across the ski while actually reducing weight overall. Perfect for novice to intermediate skiers looking to improve their skills, the narrower profile is ideal for groomed and harder snow conditions where edge control is essential.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/37_AtomicVANTAGE75C_skiSet.jpg",
+      "stock": 9,
+      "size": ["169"]
+    },
+    {
+      "id": 38,
+      "title": "ATOMIC VANTAGE WMN75 Ski Set",
+      "price": 206.42,
+      "description": "The qualities of the Atomic Vantage 75 C are simply defined. Stability. Control. Easy handling. Built for skiers who ski mainly on groomed terrain, this confidence-boosting frontside system ski delivers the power and precision of an on-piste ski with the agility of an all-mountain ski. One of the lightest skis in the Vantage collection, it features a layer of rigid woven Carbon Tank Mesh that adds strength across the ski while actually reducing weight overall. Perfect for novice to intermediate skiers looking to improve their skills, the narrower profile is ideal for groomed and harder snow conditions where edge control is essential.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/38_VANTAGE_WMN75_skiSet.jpg",
+      "stock": 13,
+      "size": ["147","161"]
+    },
+    {
+      "id": 39,
+      "title": "ROSSIGNOL EXPERIENCE MULTICOLOR Ski Set",
+      "price": 289.35,
+      "description": "The Experience 74 W is a women's freestyle ski developed by Rossignol.With its 74 mm waist, it is the thinnest ski offered in the Experience range Above all, it is designed to perform well on the piste, whatever the snow conditions. The Experience 74 W combines a Poplar Wood Core, for a responsive and light ski, with a flexible and reliable Cap construction, with a strong margin of progress for the skier. The Experience 74 W has atip rocker that will allow you to glide down when you go off piste. The tip is also equipped with the Air Tip Vas  technology which is lightweight and will limit shocks and absorb vibrations. The advantage is to have a stable ski which does not lose power and enables you to push without losing energy.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/39_RossignolEXPERIENCE74WXP_XPW10GWMulticolor_skiSet.jpg",
+      "stock": 9,
+      "size": ["136","144"]
+    },
+    {
+      "id": 40,
+      "title": "ATOMIC REDSTER X9S Ski Set",
+      "price": 198.66,
+      "description": "Our Atomic X 14 GW ski binding is the ideal option if you’re looking for real race performance that’s compatible with both alpine-normed and GripWalk boots. The DIN value from 6 to 14 delivers top power transfer, total control and fantastic speed. Plus, the Full Flex keeps the natural bend line of the ski under the binding, while also ensuring constant release values throughout your turn. And all without the hassle of tools.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/40_AtomicREDSTERX9S_skiSet.jpg",
+      "stock": 17,
+      "size": ["169","175"]
+    },
+    {
+      "id": 41,
+      "title": "ROSSIGNOL HERO ELITE STTI Ski Set",
+      "price": 281.64,
+      "description": "Within this range, the HERO ELITE ST-TI is a leisure slalom ski, a perfectly balanced carving machine, designed for the piste and for frozen snow, just as much at home on steep, bumpy slopes. Prop Tech technology has been developed for better transmission of power and improved ski control. It improves entry into turnsand allows more playful behaviour. Combined with the Power Turn Rocker you are guaranteed power and grip. The Cascade Tip construction reduces the inertia and weight of the tip for sharper skiing, better grip and precise cornering.",
+      "category": "ski",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SKI/41_RossignolHeroEliteSTTI_NX12K_DUAL_skiSet.jpg",
+      "stock": 8,
+      "size": ["162"]
+    },
+    {
+      "id": 42,
+      "title": "RIDE MTNPIG Snowboard",
+      "price": 281.64,
+      "description": "Unique 3D structure built around the urethane Slimewall® sidewalls. Designed to increase overall board strength, prevent topsheet chipping, and reduce weight. Carbon Slimewalls® – This totally unique sidewall combines layers of Slimewalls® material and carbon strategically placed at the inserts out to the contact points in the tip and tail on a twin, and the back inserts to the contact points in the tail on a directional board. This exclusive tech enhances the charging rider's experience as Ride has moved the carbon pop construction to the outside edge for better stability and enhanced response.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/42_RideMTNPIG_Snowboard.jpg",
+      "stock": 17,
+      "size": ["169","175"]
+    },
+    {
+      "id": 43,
+      "title": "ROME HEIST 151_2020 Snowboard",
+      "price": 213.57,
+      "description": "The Heist has made a name for itself over the years with a profile and tech that maximises fun on edge, in powder or in the air.  The 2020 Heist has had an upgrade this season and now features a super-responsive Fusion Camber profile which provides strong pop and edge hold while reducing the catch in the tip and tail.  This board id for the rider who likes to shred it all, the Heist is the perfect daily driver. Fusion Camber - Fusion Camber features positive camber through most of the running length, with a small amount of rocker just before the contact points. This design creates a versatile all-mountain freestyle feel that has the power and response of the majority positive camber zone, combined with a smoother overall feel and added rise in powder from the small dose of early rise.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/43_RomeHeist151_2020_Snowboard.jpg",
+      "stock": 10,
+      "size": ["159"]
+    },
+    {
+      "id": 44,
+      "title": "ROME BLUR 159_2020 Snowboard",
+      "price": 312.96,
+      "description": "TurboRods | Carbon Dual Arc – Rome's TurboRod technology puts pop-enhancing rods inside of sleeves for more dynamic response in the tip and tail. Because the rod moves independently from the sleeve, it is able to load more energy and increase pop. The Dual Arc places long rods along the edges to add a ton of extra twisting power for superior response edge to edge, and explosive power into pow slashes and ollies. SinterSpeed Base – Speed matters, whether you want to glide smoothly through powder or whether you want to make sure you clear the knuckle. For Rome's higher end boards, this is the base that ensures you get to the line first and you land in the sweet spot.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/44_RomeBlur159_2020_Snowboard.jpg",
+      "stock": 9,
+      "size": ["159"]
+    },
+    {
+      "id": 45,
+      "title": "NEVER SUMMER PROTO TYPE Snowboard",
+      "price": 196.34,
+      "description": "The Never Summer Proto Type Two Snowboard has made a name for itself as being the go-to board for do-anything, ride-everything goodness. Made with the Ripsaw Rocker Camber, this board blends the surfy ride of a rockered board with the precision of a cambered board. The extended transition area gives you a little more room in the nose for additional float in powder and a mellow sidecut makes this board ideal for getting after some extra tasty turns. Ripsaw Rocker Camber – Features enhanced cambered areas for aggressive edge hold and tremendous pop while maintaining the versatility of Original Rocker Camber.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/45_NeverSummerProtoTypeTwo_Snowboard.jpg",
+      "stock": 11,
+      "size": ["160"]
+    },
+    {
+      "id": 46,
+      "title": "ROME KASHMIR 150_2020 Snowboard",
+      "price": 399.58,
+      "description": "Strapping into this board is like wrapping up your riding style in a super soft and comfy sweater and letting it lose to play where it wants. The Rome Kashmir Snowboard has a mid-soft flex that's perfect for the park, and a buttery smooth style that'll have you feeling good around the rest of the mountain too. The flat camber is precise and pressable, built to fit around rails and flat boxes like a well-knit mitten. Feel the luxurious comfort of Kashmir, and never look back. Contact Camber – Fully flat cambered, responsive yet playful. Glass Single Barrel – A single barrel of glass milled into the core delivers extra pop to the centerline of the board. Pop Core Matrix – Built primarily of responsive, strong wood with two zones of a lighter wood species, this core balances response and lightness for a nimble ride.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/46_RomeKashmir150_2020_Snowboard.jpg",
+      "stock": 15,
+      "size": ["150"]
+    },
+    {
+      "id": 47,
+      "title": "SALOMON ALIBI Snowboard Bindings",
+      "price": 281.64,
+      "description": "Model: Men's 2018 Sicter Snowboard from Alibi. Rocker / Camber Profile: Handlebar HB Rocker: Concave rocker between the bindings for a playfulness in the park and an effortless float in pow while convex camber underfoot amplifies board control and stability.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/47_SalomonAlibi_SnowboardBindings.jpeg",
+      "stock": 3,
+      "size": ["S"]
+    },
+    {
+      "id": 48,
+      "title": "ROME GANG PLANK MULTICOLOR Snowboard",
+      "price": 213.57,
+      "description": "The Gang Plank combines the flexibility that freestyle riders love while also adding the stability of a well-rounded or dilettante rider.True twin shape, Contact Rocker Camber; Medium flex, Pop/Biax Glass core; Bamboo Omega Hotrods with Sinterstrong Base.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/48_RomeGangPlank153Multicolor_Snowboard.jpg",
+      "stock": 5,
+      "size": ["157"]
+    },
+    {
+      "id": 49,
+      "title": "NEVER SUMMER WEST BOUND Snowboard",
+      "price": 399.58,
+      "description": "The Never Summer West Bound Snowboard is a new member of Never Summer s Shaper series and features mellow taper and a powerful Recluse Web Carbon layup. Crafted with a floaty Fusion Rocker Camber that harnesses the best of the rocker and camber worlds, this board is fast, responsive, and insanely versatile. Fusion Rocker Camber + Early Rise Nose – Introducing Fusion RC. Never Summer put the edge gripping hold, the snap out of turns, and the huge pop of Ripsaw RC in the back and combined it with the float and surfy feel of Original RC in the front. Fusion is here to bring back the fun and fluidity that will make snowboarding dynamic again.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/49_NeverSummerWestBound157_Snowboard.jpg",
+      "stock": 9,
+      "size": ["157"]
+    },
+    {
+      "id": 50,
+      "title": "ROME NATIONAL 158_2020 Snowboard",
+      "price": 281.64,
+      "description": "You're not a psychic. You can't predict what the conditions will be like at the mountain until you actually get there. Don't worry, you don't need to intuit your way to a good time at the hill, you just need the Rome National Snowboard. This shred plank is built to be a one-board quiver, disregarding the forecast and replacing it with its own: good times with a high chance of stoke. Carbon in the construction means you can count on tons of power for laying siege to any terrain you set sights on and the SinterSpeed base... well, that's as it sounds. Wave the flag of radness proud on the Rome National Snowboard. Fusion Camber – Positive camber with small pockets of rocker at the contact points; the modern go-to for all-mountain performance.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/50_RomeNational158_2020_Snowboard.jpg",
+      "stock": 4,
+      "size": ["153"]
+    },
+    {
+      "id": 51,
+      "title": "BATALEON FEEL BETTER Snowboard",
+      "price": 198.66,
+      "description": "The FeelBetter is a soft and forgiving board designed for women who want to progress with confidence. The Freestyle 3BT eliminates the fear of catching your edges, allowing you to focus on the riding at hand. Why feel good, when you can feel better!Features: Flex 3; Directional Twin outline; Freestyle 3BT; SideKick; Mellow Camber; Biax Laminate",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/51_BataleonFeelbetterMulticolor146cm_Snowboard.jpg",
+      "stock": 8,
+      "size": ["146"]
+    },
+    {
+      "id": 52,
+      "title": "NIDECKER SENSOR MULTICOLOR Snowboard",
+      "price": 399.58,
+      "description": "The Nidecker Sensor Multicolor has made a name for itself over the years with a profile and tech that maximises fun on edge, in powder or in the air.  The Nidecker Sensor Multicolor has had an upgrade this season and now features a super-responsive Fusion Camber profile which provides strong pop and edge hold while reducing the catch in the tip and tail.  This board id for the rider who likes to shred it all, the Heist is the perfect daily driver. Fusion Camber - Fusion Camber features positive camber through most of the running length, with a small amount of rocker just before the contact points. This design creates a versatile all-mountain freestyle feel that has the power and response of the majority positive camber zone, combined with a smoother overall feel and added rise in powder from the small dose of early rise.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/52_NideckerSensorMulticolor150cm_Snowboard.jpg",
+      "stock": 3,
+      "size": ["150"]
+    },
+    {
+      "id": 53,
+      "title": "NOW VETTA Snowboard Bindings",
+      "price": 163.78,
+      "description": "To get the smoothest ride out of your snowboard, you've got to set it up with the right bindings. The Now Vetta Snowboard Bindings are like a Cadillac suspension system for your deck. Skate Tech pivoting with soft bushings and a Flex Hinge highback work together to keep you cushioned from any edge chatter or harsh vibrations. The bindings provide good energy transfer to make carving and all-mountain riding sweet and easy, and give you plenty of flex and energy to have some fun in the park too. SIEVA Ankle Straps – Single Injected EVA, the body of this strap is made with one-part EVA injection, eliminating any stitching and reducing gluing to less than 1% of the strap area. A nylon webbing that is strong, durable, and flexible is inserted in the body of the strap at one end and sealed by a micro-injected logo.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/53_NowVetta_SnowboardBindings.jpg",
+      "stock": 4,
+      "size": ["S"]
+    },
+    {
+      "id": 54,
+      "title": "FLOW OMNI HYBRID Snowboard Bindings",
+      "price": 150.89,
+      "description": "The Flow Omni Hybrid Snowboard Bindings are designed to make you feel omnipotent on snow, with rockered FUSE-Series baseplates and Carbon-infused highbacks for unrivaled support and power when you crank up the speed. Built with the latest iteration of the acclaimed Hybrid PowerStrap and all new Hexo Toecap Straps, these premium binders cradle your boot comfortably and precisely, creating a direct connection between you and your board for better-than-ever response and control. More comfortable, easier to use, and zero compromise on performance - just another day for the Flow Omni Hybrid Snowboard Bindings. USE-Series – The FUSE-Series is a rockered glass-filled Nylon baseplate with adjustable aluminum alloy sidewings. Slightly softer than the NX2 for riders that prefer the feel of a molded baseplate, offering a fun, direct and responsive feel.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/54_FlowOmniHybridTurcoaz_SnowboardBindings.jpg",
+      "stock": 14,
+      "size": ["M"]
+    },
+    {
+      "id": 55,
+      "title": "FLOW MAYON Snowboard Bindings",
+      "price": 135.26,
+      "description": "To get the smoothest ride out of your snowboard, you've got to set it up with the right bindings. The  Flow Mayon Snowboard Bindings are like a Cadillac suspension system for your deck. Skate Tech pivoting with soft bushings and a Flex Hinge highback work together to keep you cushioned from any edge chatter or harsh vibrations. The bindings provide good energy transfer to make carving and all-mountain riding sweet and easy, and give you plenty of flex and energy to have some fun in the park too. SIEVA Ankle Straps – Single Injected EVA, the body of this strap is made with one-part EVA injection, eliminating any stitching and reducing gluing to less than 1% of the strap area. A nylon webbing that is strong, durable, and flexible is inserted in the body of the strap at one end and sealed by a micro-injected logo.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/55_FlowMayon_SnowboardBindings.jpg",
+      "stock": 11,
+      "size": ["M"]
+    },
+    {
+      "id": 56,
+      "title": "NIDECKER MAYA BOA Snowboard Boots",
+      "price": 213.57,
+      "description": "This is a softer flexing model with a clean, functional design for riders looking for a comfy, performance-oriented, great value boot. It features an asymmetrical collar, reverse-cut liner and integrated J-bars for comfortable heel-hold. The Boa® Fit System makes it super easy to open and tighten, and the all-rubber B.F.T. FreeTrack outsole makes it extra durable and long lasting.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/56_NideckerMayaBoa_SnowboardBoots.jpg",
+      "stock": 16,
+      "size": ["23","24","25","26"]
+    },
+    {
+      "id": 57,
+      "title": "NIDECKER ONYX COILER Snowboard Boots",
+      "price": 399.58,
+      "description": "This mid-stiff boot retains its own personality with a refreshing and on-trend look, while remaining as comfortable, forgiving and easy-to-use as ever. It benefits from the redesigned, all-rubber the B.F.T Gravity oustole. The asymmetrical panels and lace-path design coupled with the single-dial Boa® with Coiler™ Technology offer substantial support and a fabulous fit. The Bronze-Level Thermo Heat Moldable liner with cosy fur inside gives added hold around the ankles. The combination of the asymmetrical boot and heel-collar panels, with the reverse-cut cuff of the liner and flex-panel to accommodate different calf-muscle shapes guarantees a perfect ergonomic connection with the foot and lower leg.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/57_NideckerOnyxCoiler_SnowboardBoots.jpg",
+      "stock": 5,
+      "size": ["23","24","25","26"]
+    },
+    {
+      "id": 58,
+      "title": "NIDECKER TRINITY Snowboard Boots",
+      "price": 281.64,
+      "description": "This mid-stiff boot retains its own personality with a refreshing and on-trend look, while remaining as comfortable, forgiving and easy-to-use as ever. It benefits from the redesigned, all-rubber the B.F.T Gravity oustole. The asymmetrical panels and lace-path design coupled with the single-dial Boa® with Coiler™ Technology offer substantial support and a fabulous fit. The Bronze-Level Thermo Heat Moldable liner with cosy fur inside gives added hold around the ankles. The combination of the asymmetrical boot and heel-collar panels, with the reverse-cut cuff of the liner and flex-panel to accommodate different calf-muscle shapes guarantees a perfect ergonomic connection with the foot and lower leg.",
+      "category": "snowboard",
+      "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/58_NideckerTrinity_SnowboardBoots.jpg",
+      "stock": 17,
+      "size": ["23","24","25","26"]
+    }
+  ]
+}

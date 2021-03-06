@@ -7,5 +7,14 @@ Online e-commerce platform
 Sarpe Claudia
 ### Project init
 `$ npm init`
-2. 
+
+Install JSON Server
+
+`$ npm install --save json-server`
+`$ npm install -g json-server`
+
+### Start JSON server:
+`$ json-server --watch db.json`
+
+
 
