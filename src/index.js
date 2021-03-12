@@ -1,10 +1,13 @@
-//  ********** start auto-play slider functions **********
+
 const sliderContainer = document.querySelector(".glide__track");
 const slide = document.querySelector(".glide__slides");
 const nextBtn = document.getElementById("next-btn");
 const prevBtn = document.getElementById("prev-btn");
 const interval = 3000;
 
+
+
+//  ********** start auto-play slider functions **********
 let slides = document.querySelectorAll(".glide__slide");
 let index = 1;
 let slideId;
@@ -70,3 +73,4 @@ sliderContainer.addEventListener('mouseleave', startSlide)
 
 startSlide();
 //  ********** end auto-play slider functions **********
+
