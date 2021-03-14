@@ -44,5 +44,197 @@
 </section>
 <!-- End of Navigation bar -->
 
+<!-- Start Admin Page -->
+<div class="admin-page">
+    <h1>Admin Page</h1>
+    <div class="product-manag" id="product-manag">
+        <h2>List of products</h2>
+        <button class="btn-cart" id="add-np-btn" >
+            <i class="fas fa-plus"></i>&nbsp Add product
+        </button>
+    </div>
+    <div class="all-products" id="all-products">
+        <table >
+            <thead>
+                <tr>
+                    <th class="th-image">Image</th>
+                    <th class="th-name">Name</th>
+                    <th class="th-price">Price</th>
+                    <th class="th-stock">Stock</th>
+                    <th class="th-delete"><i class="far fa-trash-alt"></i></th>
+                </tr>
+            </thead>
+            <tbody id="all-products-from-db">
+            </tbody>
+
+        </table>
+    </div>
+    <!-- Add new products (np) -->
+    <div class="add-np" id="add-np">
+        <div class="np-header">
+            <h2>Add new product</h2>
+            <button class="btn-cart" onclick="addNewProduct();"><i class="fas fa-plus"></i>&nbsp  Save</button>
+            <button class="btn-cart" onclick="goBackToProductList();">Cancel</button>
+        </div>
+    
+        <div class="add-nps-inputs">
+            <div>
+                <label for="np-image">Product Image</label>
+                <input type="text" id="np-image" />
+            </div>
+            <div>
+                <label for="np-name">Product Name</label>
+                <input type="text" id="np-name" />
+            </div>
+            <div>
+                <label for="np-description">Product Description</label>
+                <textarea cols="30" rows="10" id="np-description"></textarea>
+            </div>
+            <div>
+                <label for="np-price">Product Price</label>
+                <input type="text" id="np-price" />
+            </div>
+            <div>
+                <label for="np-size">Product Size</label>
+                <input type="text" id="np-size" />
+            </div>
+            <div>
+                <label for="np-stock">Product Stock</label>
+                <input type="text" id="np-stock" />
+            </div>
+            <div>
+                <label for="np-id">Product ID</label>
+                <input type="text" id="np-id" />
+            </div>
+            <div>
+                <label for="np-category">Product Category</label>
+                <input type="text" id="np-category" />
+            </div>
+        </div>
+    </div>
+    <!-- Edit new products (np) -->
+    <div class="edit-np" id="edit-np">
+        <div class="np-header">
+            <h2>Edit product</h2>
+            <button class="btn-cart" onclick="addNewProduct();"><i class="fas fa-plus"></i>&nbsp  Save</button>
+            <button class="btn-cart" onclick="goBackToProductList();">Cancel</button>
+        </div>
+        <div class="edit-nps-inputs">
+            <div>
+                <label for="edit-np-image">Product Image</label>
+                <input type="text" id="edit-np-image" />
+            </div>
+            <div>
+                <label for="edit-np-name">Product Name</label>
+                <input type="text" id="edit-np-name" />
+            </div>
+            <div>
+                <label for="edit-np-description">Product Description</label>
+                <textarea cols="30" rows="10" id="edit-np-description"></textarea>
+            </div>
+            <div>
+                <label for="edit-np-price">Product Price</label>
+                <input type="text" id="edit-np-price" />
+            </div>
+            <div>
+                <label for="edit-np-size">Product Size</label>
+                <input type="text" id="edit-np-size" />
+            </div>
+            <div>
+                <label for="edit-np-stock">Product Stock</label>
+                <input type="text" id="edit-np-stock" />
+            </div>
+            <div>
+                <label for="edit-np-id">Product ID</label>
+                <input type="text" id="edit-np-id" />
+            </div>
+            <div>
+                <label for="edit-np-category">Product Category</label>
+                <input type="text" id="edit-np-category" />
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End of Admin Page -->
+
+<!--Start Contact section-->
+<div class="contact" id="contact">
+    <div class="contact-form">
+        <h2>Keep in touch</h2>
+        <form id="form">
+            <div class="form1">
+                <div class="form_name">
+                    <label for="first-name">Name *:</label>
+                    <input type="text" id="name" />
+                    <small>Error message</small>
+                </div>
+                <div class="form_email">
+                    <label for="email">Email *</label>
+                    <input type="text" id="email" />
+                    <small>Error message</small>
+                </div>
+                <div class="form_message">
+                    <label for="message">Send a message...</label>
+                    <input type="text" id="message" />
+                    <small>Error message</small>
+                </div>
+                <div class="form_submitBtn">
+                    <button id="submit">Submit</button>
+                </div>
+            </div>
+            <div class="form2">
+                <div class="contact-adress">
+                    <h3>Addres</h3>
+                    <div class="contact_info">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <h4>Sibiu, Romania, Big Square, No.35</h4>
+                    </div>
+                </div>
+                <div class="contact-phone">
+                    <h3>Phone</h3>
+                    <div class="contact_info">
+                        <i class="fas fa-phone-alt"></i>
+                        <h4>+40744568203</h4>
+                    </div>
+                </div>
+                <div class="contact-email">
+                    <h3>E-mail</h3>
+                    <div class="contact_info">
+                        <i class="fas fa-envelope"></i>
+                        <h4>office@icebreakers.com</h4>
+                    </div>
+                </div> 
+            </div>
+            <div class="form3">
+                <div class="contact-map">
+                    <div class="contact_info">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.722764592128!2d24.14963871582756!3d45.79678161921007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x474c6790dbfaf33f%3A0xfe402ef039388178!2sPia%C8%9Ba%20Mare%2C%20Sibiu!5e0!3m2!1sro!2sro!4v1615046474874!5m2!1sro!2sro" width="350" height="230" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<!--End of Contact Section-->
+<!--Start of Footer Section-->
+<section id="footer">
+    <div class="footer container">
+        <div class="social-icon">
+        <div class="social-item">
+            <a href="https://www.facebook.com/claudiaelenaade/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+        </div>
+        <div class="social-item">
+            <a href="https://www.instagram.com/clau.snk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+        </div>
+        <div class="social-item">
+            <a href="https://www.linkedin.com/in/sarpe-claudia-elena-9b573310a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+        </div>
+        </div>
+        <p>Copyright &copy 2021 <small>I C E_B R E A K E R S</small>. All Rights Reserved</p>
+    </div>
+</section>
+<!--End of Footer section-->
+
+<script src="src/admin.js" type="module"></script>
 </body>
 </html>

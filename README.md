@@ -14,7 +14,7 @@ Install JSON Server
 `$ npm install -g json-server`
 
 ### Start JSON server:
-`$ json-server --watch db.json`
+`$ json-server --watch api/db.json`
 
 
 

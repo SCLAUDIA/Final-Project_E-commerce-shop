@@ -617,7 +617,7 @@ p.success {
 .details-card-wrapper{
    max-width: fit-content;
    margin: auto;
-   margin-top: 200px;
+   margin-top: 100px;
    /* margin-left: 200px;  */
    display: flex;
    align-items: center;
@@ -627,16 +627,20 @@ p.success {
 .details-right-section{
     display: flex;
     flex-direction: column;
-    margin-left: 200px;
+    margin-left: 150px;
     /* margin-top: 100px; */
 }
 .image-showcase{
-    padding-left: 30px;
+    padding-left: 50px;
+}
+.image-showcase>img{
+    /* border: 1px solid #ccc; */
+    box-shadow: 0 .5rem 1.5rem rgba(145, 59, 59, 0.1);
 }
 
 .image-showcase>img:hover{
-    transform: scale(1.1);
-    transition: all 0.5s ease;
+    /* transform: scale(1.1);
+    transition: all 0.5s ease; */
 }
 .product-title{
     padding-top: 10px;
@@ -656,7 +660,8 @@ p.success {
 }
 .product-details{
     width: 500px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
+    padding-right: 30px;
 }
 .product-details>h2{
     padding-bottom: 10px;
@@ -716,9 +721,175 @@ p.success {
     color: var(--black2);
 }
 
+/********** admin page style  **********/
+.admin-page{
+    margin-top: 200px;
+}
+.admin-page>h1{
+    text-align: center;
+    color: var(--red);
+    letter-spacing: 1px;
+    font-weight: 550;
+}
+.product-manag{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 600px;
+}
+.product-manag>h2{
+    color: var(--black2);
+    letter-spacing: 1px;
+}
+.product-manag>button{
+    outline: none;
+}
+.all-products table {
+    width: auto;
+    font-size: 20px;
+}
+.all-products table,
+.all-products table td {
+    border: .5px solid var(--grey);
+    box-shadow: 0 1rem 1.5rem rgba(0, 0, 0, .1);
+}
+.all-products table img {
+    width: 150px;
+    height: 120px;
+}
+thead{
+    line-height: 30px;
+    color: white;
+    background-color: var(--grey);
+}
+.th-name {
+    width: 500px;
+}
+.th-price,
+.th-stock {
+    width: 100px;
+}
+.th-delete {
+    width: 110px;
+    color: var(--red);
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+
+/* styling pentru elementele create dinamic in tebelul de ADMIN */
+
+.p-name, .p-price, .p-stock, .p-remove{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 500;  
+}
+.p-name>a{
+    color: var(--black1);
+}
+.p-remove>button{
+    background-color: var(--red);
+    color: white;
+    outline: none;
+    border: none;
+    height: 30px;
+    width: 30px;
+    font-size: 15px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+/* ADD&EDIT NEW PRODUCT */
+
+.add-np, .edit-np{
+    display: none;
+    background-color: #f9f3f3;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 700px;
+    
+}
+.np-header{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.np-header>h2{
+    margin-top: 10px;
+    color: var(--black1);
+    padding: 0 20px;
+    font-weight: 550;
+    letter-spacing: 1px ;
+}
+.np-header>button{
+    margin: 10px 20px;
+}
+.np-header>button:focus{
+    outline: none;
+}
+.add-nps-inputs .edit-nps-inputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+
+.add-nps-inputs div,
+.edit-nps-inputs div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.add-nps-inputs div label,
+.edit-nps-inputs div label{
+    margin-right: 20px;
+    color: var(--black2);
+    letter-spacing: .5px;
+    font-weight: 400;
+}
+.add-nps-inputs div input,
+.add-nps-inputs div textarea,
+.edit-nps-inputs div input,
+.edit-nps-inputs div textarea{
+    width: 500px;
+    line-height: 20px;
+}
+.add-nps-inputs input:focus,
+.add-nps-inputs textarea:focus,
+.edit-nps-inputs input:focus,
+.edit-nps-inputs textarea:focus {
+    outline: none;
+}
+
+.add-nps-inputs textarea,
+.edit-nps-inputs textarea {
+    height: 70px;
+}
 
 
 
+
+
+
+/* show or hide elements */
+.show-table {
+    display: block;
+}
+  
+.hide-table {
+    display: none;
+}
+  
+.show-table-flex {
+    display: flex;
+}
 /* media querries */
 /* @media screen and  (min-width: 992px){
     .product-items{

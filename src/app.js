@@ -83,7 +83,9 @@ startSlide();
 //  ********** end auto-play slider functions **********
 
 
- 
+//  Add product to db
+
+
 
  
 
