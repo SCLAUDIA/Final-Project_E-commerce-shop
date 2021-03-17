@@ -8,7 +8,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/1_AlpinaGrap2.0SkiHelmet_Black.jpg",
       "stock": "in stock",
-      "size": ["55-58"]
+      "size": [
+        "55-58"
+      ]
     },
     {
       "id": 2,
@@ -18,7 +20,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/2_SalomonMirageWSkiHelmet_Black.jpg",
       "stock": "in stock",
-      "size": ["53-56"]
+      "size": [
+        "53-56"
+      ]
     },
     {
       "id": 3,
@@ -28,7 +32,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/3_UvexRaceSkiHelmet_Black.jpg",
       "stock": "in stock",
-      "size":["55-58"] 
+      "size": [
+        "55-58"
+      ]
     },
     {
       "id": 4,
@@ -38,7 +44,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/4_AlpinaZupoDisneyStarWarsMulticolorSkiHelmet.jpg",
       "stock": "out of stock",
-      "size": ["51-55"]
+      "size": [
+        "51-55"
+      ]
     },
     {
       "id": 5,
@@ -48,7 +56,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/5_AlpinaAttelasVisorQVMMblack_silverSkiHelmet.jpg",
       "stock": "in stock",
-      "size": ["55-58"]
+      "size": [
+        "55-58"
+      ]
     },
     {
       "id": 6,
@@ -58,7 +68,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/6_AlpinaJUMP2_HMblackSkiHelmet.jpg",
       "stock": "in stock",
-      "size": ["53-56"]
+      "size": [
+        "53-56"
+      ]
     },
     {
       "id": 7,
@@ -68,7 +80,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/7_AlpinaJUMP2_HMwhiteSkiHelmet.jpg",
       "stock": "in stock",
-      "size": ["53-56"]
+      "size": [
+        "53-56"
+      ]
     },
     {
       "id": 8,
@@ -78,7 +92,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/8_AlpinaMaroiCurry_greySkiHelmet.jpg",
       "stock": "out of stock",
-      "size": ["53-56"]
+      "size": [
+        "53-56"
+      ]
     },
     {
       "id": 9,
@@ -88,7 +104,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/9_SalomonQuestBleumarinSkiHelmet.jpg",
       "stock": "in stock",
-      "size": ["55-58"]
+      "size": [
+        "55-58"
+      ]
     },
     {
       "id": 10,
@@ -98,7 +116,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/10_RossignolTACTIC_SAFETY_Poles.jpg",
       "stock": "in stock",
-      "size": [110]
+      "size": [
+        110
+      ]
     },
     {
       "id": 11,
@@ -108,7 +128,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/11_ArmadaTriadWomenSki_Poles.jpg",
       "stock": "in stock",
-      "size": [110]
+      "size": [
+        110
+      ]
     },
     {
       "id": 12,
@@ -118,7 +140,10 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/12_AtomicAmtBlack_GreySki_Poles.jpg",
       "stock": "in stock",
-      "size": ["90","95"]
+      "size": [
+        "90",
+        "95"
+      ]
     },
     {
       "id": 13,
@@ -128,7 +153,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/13_ArmadaLegionSafetySki_Poles.jpg",
       "stock": "out of stock",
-      "size": [110]
+      "size": [
+        110
+      ]
     },
     {
       "id": 14,
@@ -138,7 +165,10 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/14_ArmadaLegionGoldSki_Poles.jpg",
       "stock": "in stock",
-      "size": ["120","125"]
+      "size": [
+        "120",
+        "125"
+      ]
     },
     {
       "id": 15,
@@ -148,7 +178,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/15_SalomonSPRO_90_CHCWhite_Woman_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["24-24.5"]
+      "size": [
+        "24-24.5"
+      ]
     },
     {
       "id": 16,
@@ -158,7 +190,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/16_SalomonSkiXACCESS90_Men_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["29-29.5"]
+      "size": [
+        "29-29.5"
+      ]
     },
     {
       "id": 17,
@@ -168,7 +202,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/17_SalomonSkiS_Max60T_Children_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["24-24.5"]
+      "size": [
+        "24-24.5"
+      ]
     },
     {
       "id": 18,
@@ -178,7 +214,11 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/18_SalomonSkiS_PRO100_Men_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["27-27.5","28-28.5","29-29.5"]
+      "size": [
+        "27-27.5",
+        "28-28.5",
+        "29-29.5"
+      ]
     },
     {
       "id": 19,
@@ -188,7 +228,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/19_SalomonSkiS_Max130_Men_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["29-29.5"]
+      "size": [
+        "29-29.5"
+      ]
     },
     {
       "id": 20,
@@ -198,7 +240,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/20_Salomon_QSTAccess80W_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["24-24.5"]
+      "size": [
+        "24-24.5"
+      ]
     },
     {
       "id": 21,
@@ -208,7 +252,11 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/21_AtomicHawx_Ultra_120_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["27-27.5","28-28.5","29-29.5"]
+      "size": [
+        "27-27.5",
+        "28-28.5",
+        "29-29.5"
+      ]
     },
     {
       "id": 22,
@@ -218,7 +266,10 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/22_Salomon_QstPro80_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["23-23.5","24-24.5"]
+      "size": [
+        "23-23.5",
+        "24-24.5"
+      ]
     },
     {
       "id": 23,
@@ -228,7 +279,11 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/23_SalomonXPro120white_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["27-27.5","28-28.5","29-29.5"]
+      "size": [
+        "27-27.5",
+        "28-28.5",
+        "29-29.5"
+      ]
     },
     {
       "id": 24,
@@ -238,7 +293,11 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/24_SalomonQstPro90_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["27-27.5","28-28.5","29-29.5"]
+      "size": [
+        "27-27.5",
+        "28-28.5",
+        "29-29.5"
+      ]
     },
     {
       "id": 25,
@@ -248,7 +307,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/25_RossignolALLTRACK_PRO80W_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["25"]
+      "size": [
+        "25"
+      ]
     },
     {
       "id": 26,
@@ -258,7 +319,11 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/26_RossignolHERO_WORLD_CUP130MEDIUM_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["22","23","25"]
+      "size": [
+        "22",
+        "23",
+        "25"
+      ]
     },
     {
       "id": 27,
@@ -268,7 +333,10 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/27_RossignolAlltrackPro100_Bordeaux_SkiBoots.jpg",
       "stock": "out of stock",
-      "size": ["27.5","28"]
+      "size": [
+        "27.5",
+        "28"
+      ]
     },
     {
       "id": 28,
@@ -278,7 +346,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/28_RossignolHeroWorldCup90Sc_White_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["26.5"]
+      "size": [
+        "26.5"
+      ]
     },
     {
       "id": 29,
@@ -288,7 +358,10 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/29_RossignolAlltrackPro120LtPetroleBlu_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["28","29"]
+      "size": [
+        "28",
+        "29"
+      ]
     },
     {
       "id": 30,
@@ -298,7 +371,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/30_ScottSuperguideCarbon125LimeGreen_Black_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["27.5"]
+      "size": [
+        "27.5"
+      ]
     },
     {
       "id": 31,
@@ -308,7 +383,10 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/31_ARMADA_TRACER98_ARWARDEN13_skiSet.jpg",
       "stock": "in stock",
-      "size": ["172","180"]
+      "size": [
+        "172",
+        "180"
+      ]
     },
     {
       "id": 32,
@@ -318,7 +396,11 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/32_ARMADA_TRACER_108_ARWARDEN13_skiSet.jpg",
       "stock": "in stock",
-      "size": ["172","180","188"]
+      "size": [
+        "172",
+        "180",
+        "188"
+      ]
     },
     {
       "id": 33,
@@ -328,7 +410,10 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/33_ARMADA_KIRTI_ARNRC5_skiSet.jpg",
       "stock": "in stock",
-      "size": ["120","130"]
+      "size": [
+        "120",
+        "130"
+      ]
     },
     {
       "id": 34,
@@ -338,7 +423,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/34_ARMADA_BANTAM_AR_NR_C5_skiSet.jpg",
       "stock": "in stock",
-      "size": ["120"]
+      "size": [
+        "120"
+      ]
     },
     {
       "id": 35,
@@ -348,7 +435,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/35_AtomicREDSTER_J4_skiSet.jpg",
       "stock": "in stock",
-      "size": ["150"]
+      "size": [
+        "150"
+      ]
     },
     {
       "id": 36,
@@ -358,7 +447,10 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/36_AtomicVANTAGE_WMN_75C_skiSet.jpg",
       "stock": "in stock",
-      "size": ["147","161"]
+      "size": [
+        "147",
+        "161"
+      ]
     },
     {
       "id": 37,
@@ -368,7 +460,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/37_AtomicVANTAGE75C_skiSet.jpg",
       "stock": "in stock",
-      "size": ["169"]
+      "size": [
+        "169"
+      ]
     },
     {
       "id": 38,
@@ -378,7 +472,10 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/38_VANTAGE_WMN75_skiSet.jpg",
       "stock": "in stock",
-      "size": ["147","161"]
+      "size": [
+        "147",
+        "161"
+      ]
     },
     {
       "id": 39,
@@ -388,7 +485,10 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/39_RossignolEXPERIENCE74WXP_XPW10GWMulticolor_skiSet.jpg",
       "stock": "in stock",
-      "size": ["136","144"]
+      "size": [
+        "136",
+        "144"
+      ]
     },
     {
       "id": 40,
@@ -398,7 +498,10 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/40_AtomicREDSTERX9S_skiSet.jpg",
       "stock": "in stock",
-      "size": ["169","175"]
+      "size": [
+        "169",
+        "175"
+      ]
     },
     {
       "id": 41,
@@ -408,7 +511,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/41_RossignolHeroEliteSTTI_NX12K_DUAL_skiSet.jpg",
       "stock": "in stock",
-      "size": ["162"]
+      "size": [
+        "162"
+      ]
     },
     {
       "id": 42,
@@ -418,7 +523,10 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/42_RideMTNPIG_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["169","175"]
+      "size": [
+        "169",
+        "175"
+      ]
     },
     {
       "id": 43,
@@ -428,7 +536,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/43_RomeHeist151_2020_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["159"]
+      "size": [
+        "159"
+      ]
     },
     {
       "id": 44,
@@ -438,7 +548,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/44_RomeBlur159_2020_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["159"]
+      "size": [
+        "159"
+      ]
     },
     {
       "id": 45,
@@ -448,7 +560,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/45_NeverSummerProtoTypeTwo_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["160"]
+      "size": [
+        "160"
+      ]
     },
     {
       "id": 46,
@@ -458,7 +572,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/46_RomeKashmir150_2020_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["150"]
+      "size": [
+        "150"
+      ]
     },
     {
       "id": 47,
@@ -468,7 +584,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/47_SalomonAlibi_SnowboardBindings.jpeg",
       "stock": "out of stock",
-      "size": ["S"]
+      "size": [
+        "S"
+      ]
     },
     {
       "id": 48,
@@ -478,7 +596,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/48_RomeGangPlank153Multicolor_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["157"]
+      "size": [
+        "157"
+      ]
     },
     {
       "id": 49,
@@ -488,7 +608,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/49_NeverSummerWestBound157_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["157"]
+      "size": [
+        "157"
+      ]
     },
     {
       "id": 50,
@@ -498,7 +620,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/50_RomeNational158_2020_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["153"]
+      "size": [
+        "153"
+      ]
     },
     {
       "id": 51,
@@ -508,7 +632,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/51_BataleonFeelbetterMulticolor146cm_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["146"]
+      "size": [
+        "146"
+      ]
     },
     {
       "id": 52,
@@ -518,7 +644,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/52_NideckerSensorMulticolor150cm_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["150"]
+      "size": [
+        "150"
+      ]
     },
     {
       "id": 53,
@@ -528,7 +656,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/53_NowVetta_SnowboardBindings.jpg",
       "stock": "in stock",
-      "size": ["S"]
+      "size": [
+        "S"
+      ]
     },
     {
       "id": 54,
@@ -538,7 +668,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/54_FlowOmniHybridTurcoaz_SnowboardBindings.jpg",
       "stock": "in stock",
-      "size": ["M"]
+      "size": [
+        "M"
+      ]
     },
     {
       "id": 55,
@@ -548,7 +680,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/55_FlowMayon_SnowboardBindings.jpg",
       "stock": "in stock",
-      "size": ["M"]
+      "size": [
+        "M"
+      ]
     },
     {
       "id": 56,
@@ -558,7 +692,12 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/56_NideckerMayaBoa_SnowboardBoots.jpg",
       "stock": "in stock",
-      "size": ["23","24","25","26"]
+      "size": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ]
     },
     {
       "id": 57,
@@ -568,7 +707,12 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/57_NideckerOnyxCoiler_SnowboardBoots.jpg",
       "stock": "in stock",
-      "size": ["23","24","25","26"]
+      "size": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ]
     },
     {
       "id": 58,
@@ -578,7 +722,12 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/58_NideckerTrinity_SnowboardBoots.jpg",
       "stock": "in stock",
-      "size": ["23","24","25","26"]
+      "size": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ]
     },
     {
       "id": 59,
@@ -588,7 +737,12 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/59_RossignolAlleyBoa_SnowboardBoots.jpg",
       "stock": "in stock",
-      "size": ["23","24","25","26"]
+      "size": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ]
     },
     {
       "id": 60,
@@ -598,7 +752,11 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/60_ScarpaAlienRS_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["22","23","25"]
+      "size": [
+        "22",
+        "23",
+        "25"
+      ]
     },
     {
       "id": 61,
@@ -608,7 +766,12 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/61_BurtonPhotonBoa_SnowboardBoots.jpg",
       "stock": "in stock",
-      "size": ["23","24","25","26"]
+      "size": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ]
     },
     {
       "id": 62,
@@ -618,7 +781,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/62_SalomonAssassin_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["146"]
+      "size": [
+        "146"
+      ]
     },
     {
       "id": 63,
@@ -628,7 +793,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/63_K2_Snowboards_CoolBean_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["146"]
+      "size": [
+        "146"
+      ]
     },
     {
       "id": 64,
@@ -638,7 +805,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/64_SalomonOhYeah_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["146"]
+      "size": [
+        "146"
+      ]
     },
     {
       "id": 65,
@@ -648,7 +817,9 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/65_BurtonDescendant_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["146"]
+      "size": [
+        "146"
+      ]
     },
     {
       "id": 66,
@@ -658,7 +829,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/66_OakleyLineMinerXLPrizmSnow_Sunglasses.jpg",
       "stock": "in stock",
-      "size": ["no-size"]
+      "size": [
+        "no-size"
+      ]
     },
     {
       "id": 67,
@@ -668,7 +841,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/67_POCRetina BigClarity_Sunglasses.jpg",
       "stock": "in stock",
-      "size": ["no-size"]
+      "size": [
+        "no-size"
+      ]
     },
     {
       "id": 68,
@@ -678,7 +853,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/68_OakleyFlightDeckXMPrizmSnow_Sunglasses.jpg",
       "stock": "in stock",
-      "size": ["no-size"]
+      "size": [
+        "no-size"
+      ]
     },
     {
       "id": 69,
@@ -688,7 +865,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/69_BolleFreeze_Sunglasses.jpg",
       "stock": "in stock",
-      "size": ["no-size"]
+      "size": [
+        "no-size"
+      ]
     },
     {
       "id": 70,
@@ -698,7 +877,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/70_POC_Orb Clarity_Sunglasses.jpg",
       "stock": "in stock",
-      "size": ["no-size"]
+      "size": [
+        "no-size"
+      ]
     },
     {
       "id": 71,
@@ -708,7 +889,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/71_OakleyOFrame2.0ProXMPrizm_Sunglasses.jpg",
       "stock": "in stock",
-      "size": ["no-size"]
+      "size": [
+        "no-size"
+      ]
     },
     {
       "id": 72,
@@ -718,7 +901,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/72_OakleyLineMinerXLPrizm_Sunglasses.jpg",
       "stock": "in stock",
-      "size": ["no-size"]
+      "size": [
+        "no-size"
+      ]
     },
     {
       "id": 72,
@@ -728,7 +913,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/72_OakleyLineMinerXLPrizm_Sunglasses.jpg",
       "stock": "in stock",
-      "size": ["no-size"]
+      "size": [
+        "no-size"
+      ]
     },
     {
       "id": 73,
@@ -738,7 +925,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/73_k2route_SkiHelmet.jpg",
       "stock": "in stock",
-      "size": ["53-56"]
+      "size": [
+        "53-56"
+      ]
     },
     {
       "id": 74,
@@ -748,7 +937,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/74_AtomicSavorVisorStereo_SkiHelmet.jpg",
       "stock": "in stock",
-      "size": ["53-56"]
+      "size": [
+        "53-56"
+      ]
     },
     {
       "id": 75,
@@ -758,7 +949,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/75_SalomonGromVisor_SkiHelmet.jpg",
       "stock": "in stock",
-      "size": ["53-56"]
+      "size": [
+        "53-56"
+      ]
     },
     {
       "id": 76,
@@ -768,7 +961,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/76_OakleyMod5_SkiHelmet.jpg",
       "stock": "in stock",
-      "size": ["53-56"]
+      "size": [
+        "53-56"
+      ]
     },
     {
       "id": 77,
@@ -778,7 +973,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/77_HeadRachel_SkiHelmet.jpg",
       "stock": "in stock",
-      "size": ["53-56"]
+      "size": [
+        "53-56"
+      ]
     },
     {
       "id": 78,
@@ -788,7 +985,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/78_LekiAlpinoCarbon_Poles.jpg",
       "stock": "in stock",
-      "size": [110]
+      "size": [
+        110
+      ]
     },
     {
       "id": 79,
@@ -798,7 +997,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/79_Komperdell_NationalteamCarbonSlalom_Poles.jpg",
       "stock": "in stock",
-      "size": [110]
+      "size": [
+        110
+      ]
     },
     {
       "id": 80,
@@ -808,7 +1009,9 @@
       "category": "accessories",
       "image": "./POZE PRODUSE/ACCESORII/80_KomperdellNationalteamCarbonSuperG_Poles.jpg",
       "stock": "in stock",
-      "size": [110]
+      "size": [
+        110
+      ]
     },
     {
       "id": 81,
@@ -818,7 +1021,12 @@
       "category": "snowboard",
       "image": "./POZE PRODUSE/ECHIPAMENT_SNOWBOARD/81_burton-deep-thinker_Snowboard.jpg",
       "stock": "in stock",
-      "size": ["23","24","25","26"]
+      "size": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ]
     },
     {
       "id": 82,
@@ -828,7 +1036,9 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/82_full-tilt-drop-kick-proSki_Boots.jpg",
       "stock": "in stock",
-      "size": ["24-24.5"]
+      "size": [
+        "24-24.5"
+      ]
     },
     {
       "id": 83,
@@ -838,7 +1048,39 @@
       "category": "ski",
       "image": "./POZE PRODUSE/ECHIPAMENT_SKI/83_atomic-hawx-prime-xtd-120-tech-gripwalk_SkiBoots.jpg",
       "stock": "in stock",
-      "size": ["24-24.5"]
+      "size": [
+        "24-24.5"
+      ]
+    },
+    {
+      "id": "84",
+      "title": "test snowboard",
+      "price": "126",
+      "description": "bla bla bla",
+      "category": "snowboard",
+      "image": "https://d2bvnhhspgbxyn.cloudfront.net/media/catalog/product/cache/1/image/2000x/9df78eab33525d08d6e5fb8d27136e95/p/l/placa_snowboard_copii_trans_pirate_jr_fullrocker_albastru_2019_top.jpg",
+      "stock": "in stock",
+      "size": "d"
+    },
+    {
+      "id": "85",
+      "title": "test ski",
+      "price": "459",
+      "description": "bla bla bla",
+      "category": "ski",
+      "image": "https://www.skirack.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/13139978.jpg",
+      "stock": "out of stock",
+      "size": "f"
+    },
+    {
+      "id": "86",
+      "title": "test accessories",
+      "price": "459",
+      "description": "bla bla bla bla",
+      "category": "accessories",
+      "image": "https://sportofino.com/media/catalog/product/cache/8deb69d6595015107ac2339583c380de/1/1/119_hl72000_nd_01.jpg",
+      "stock": "in stock",
+      "size": "d"
     }
   ]
 }

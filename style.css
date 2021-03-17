@@ -803,7 +803,7 @@ table{
 
 /* ADD&EDIT NEW PRODUCT */
 
-.add-np, .edit-np{
+.add-np{
     display: none;
     background-color: #f9f3f3;
     margin: auto;
@@ -831,15 +831,14 @@ table{
 .np-header>button:focus{
     outline: none;
 }
-.add-nps-inputs .edit-nps-inputs{
+.add-nps-inputs{
     display: flex;
     flex-direction: column;
     justify-content: center;
    
 }
 
-.add-nps-inputs div,
-.edit-nps-inputs div {
+.add-nps-inputs div{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -847,29 +846,23 @@ table{
     padding: 10px;
 }
 
-.add-nps-inputs div label,
-.edit-nps-inputs div label{
+.add-nps-inputs div label{
     margin-right: 20px;
     color: var(--black2);
     letter-spacing: .5px;
     font-weight: 400;
 }
 .add-nps-inputs div input,
-.add-nps-inputs div textarea,
-.edit-nps-inputs div input,
-.edit-nps-inputs div textarea{
+.add-nps-inputs div textarea{
     width: 500px;
     line-height: 20px;
 }
 .add-nps-inputs input:focus,
-.add-nps-inputs textarea:focus,
-.edit-nps-inputs input:focus,
-.edit-nps-inputs textarea:focus {
+.add-nps-inputs textarea:focus{
     outline: none;
 }
 
-.add-nps-inputs textarea,
-.edit-nps-inputs textarea {
+.add-nps-inputs textarea{
     height: 70px;
 }
 
@@ -879,17 +872,27 @@ table{
 
 
 /* show or hide elements */
-.show-table {
+.show-div-adminPage {
     display: block;
 }
   
-.hide-table {
+.hide-div-adminPage {
     display: none;
 }
   
-.show-table-flex {
+.show-div-adminPageFlex {
     display: flex;
 }
+/* item added message */
+.item-added {
+    background-color: var(--success);
+    text-align: center;
+    font-weight: bold;
+}
+.error-message{
+    color: red;
+}
+
 /* media querries */
 /* @media screen and  (min-width: 992px){
     .product-items{

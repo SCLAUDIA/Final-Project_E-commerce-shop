@@ -11,10 +11,23 @@ class customHTTPMethods{
             headers: {
                 'Content-type': 'application/json',
             },
-            body: JSON.stringify(product)
+            body: JSON.stringify(product),
         });
         const data = await response.json();
         return data;
     }
+
+    async DELETE(url){
+        const response = await fetch (url, {
+            method: 'DELETE',
+            headers: {
+                'Content-type': 'application/json',
+            }
+        });
+        const data = await 'Product deleted';
+        return data;
+    }
+
+
 }
 export const http = new customHTTPMethods();
