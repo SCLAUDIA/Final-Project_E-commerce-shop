@@ -1,5 +1,5 @@
 class customHTTPMethods{
-    // 
+     
     async get(url){
         const response = await fetch (url);
         const data = await response.json();
@@ -17,7 +17,7 @@ class customHTTPMethods{
         return data;
     }
 
-    async DELETE(url){
+    async delete(url){
         const response = await fetch (url, {
             method: 'DELETE',
             headers: {

@@ -38,12 +38,13 @@ fetch('http://localhost:3000/product').then(
                             <td class="p-price">${product.price} €</td>
                             <td class="p-stock">${product.stock}</td>
                             <td style="display: none;">${product.id}</td>
-                            <td class="p-remove"><button class="deleteItemFromApi" id=${product.id}><i class="far fa-trash-alt"></i></button></td>
+                            <td class="p-remove"><button class="deleteItemFromApi"><i class="far fa-trash-alt" id=${product.id}></i></button></td>
                         </tr>    
-                        `                                 
+                        `               
                     })
-                    
+
                     document.getElementById('all-products-from-db').innerHTML = output;
+                    
                 }
             }
         )
@@ -120,4 +121,18 @@ const newProductCategory = document.getElementById('np-category').value;
 }
 
 // DELETE PRODUCTS IN DB/API 
-// next to figure out
+document.getElementById('all-products-from-db').addEventListener('click', deleteProduct);
+// console.log(deteleFromTable);
+function deleteProduct(e){
+    
+    // console.log(e.target);
+    if (e.target.classList.contains('far')) {
+        		const id = e.target.id;
+        		http
+        			.delete(`http://localhost:3000/product/${id}`)
+        			.then((data) => getSkiingProducts())
+                    .then((data) => getAccessoriesProducts())
+                    .then((data) => getSnowboardingProducts())
+        			.catch('Error on delete!');
+        	}
+}

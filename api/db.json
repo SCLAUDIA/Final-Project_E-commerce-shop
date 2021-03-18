@@ -1051,36 +1051,6 @@
       "size": [
         "24-24.5"
       ]
-    },
-    {
-      "id": "84",
-      "title": "test snowboard",
-      "price": "126",
-      "description": "bla bla bla",
-      "category": "snowboard",
-      "image": "https://d2bvnhhspgbxyn.cloudfront.net/media/catalog/product/cache/1/image/2000x/9df78eab33525d08d6e5fb8d27136e95/p/l/placa_snowboard_copii_trans_pirate_jr_fullrocker_albastru_2019_top.jpg",
-      "stock": "in stock",
-      "size": "d"
-    },
-    {
-      "id": "85",
-      "title": "test ski",
-      "price": "459",
-      "description": "bla bla bla",
-      "category": "ski",
-      "image": "https://www.skirack.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/13139978.jpg",
-      "stock": "out of stock",
-      "size": "f"
-    },
-    {
-      "id": "86",
-      "title": "test accessories",
-      "price": "459",
-      "description": "bla bla bla bla",
-      "category": "accessories",
-      "image": "https://sportofino.com/media/catalog/product/cache/8deb69d6595015107ac2339583c380de/1/1/119_hl72000_nd_01.jpg",
-      "stock": "in stock",
-      "size": "d"
     }
   ]
 }

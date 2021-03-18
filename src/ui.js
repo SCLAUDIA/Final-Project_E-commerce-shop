@@ -78,8 +78,9 @@ class UI{
                     </div>
                 </div>
                 `;
-            this.productDiv.innerHTML=output;
+                this.productDiv.innerHTML=output;
             } 
+            
         })
     }
 

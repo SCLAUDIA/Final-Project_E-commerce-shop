@@ -49,11 +49,12 @@ ul{
     height: 100%;
     max-width: 1300px;
     padding: 0 10px;
-    padding-left: 400px;
+    padding-left: 300px;
 }
 .nav-bar{
     background-color: white;
 }
+
 #header .nav-list ul{
     list-style: none;
     width: fit-content;
@@ -100,6 +101,10 @@ ul{
 }
 #header .nav-list ul li ul li a{
     font-size: 15px;   
+}
+.nav-list img{
+   height: 100px;
+   width: 130px;
 }
 .cart{
     justify-self: flex-end;
@@ -800,8 +805,12 @@ table{
     border-radius: 50%;
     cursor: pointer;
 }
+.p-remove>button>i{
+    font-size: 22px;
+}
 
-/* ADD&EDIT NEW PRODUCT */
+
+/* ADD NEW PRODUCT */
 
 .add-np{
     display: none;
