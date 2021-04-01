@@ -31,11 +31,42 @@
                     <li><a href="admin.html">Admin</a></li>
                     <li><a href="#contact">Contact</a></li>
                     <li>
-                        <div class="cart">
-                            <button type="button" id="cart_btn"> <a href="cart.html"><i class="fas fa-shopping-cart"></i></a> 
-                                <span id="cart_count_info">0</span>
+                        <div class = "cart">
+                            <button type = "button" id = "cart-btn">
+                              <i class = "fas fa-shopping-cart"></i>
+                              <span id = "cart-count-info"></span>
                             </button>
-                        </div>
+                            
+                            <div class = "cart-container">
+                              <div class = "cart-list">
+                                <!-- single item -->
+                                <!-- <div class = "cart-item">
+                                  <img src = "POZE PRODUSE/ACCESORII/4_AlpinaZupoDisneyStarWarsMulticolorSkiHelmet.jpg" alt = "product image">
+                                  <div class = "cart-item-info">
+                                    <h3 class = "cart-item-name">Ski Helmet</h3>
+                                    <span class = "cart-item-price">120.00 €</span>
+                                    <button type = "button" id="removeBtn">Remove Item</button>
+                                  </div>
+                
+                                  <button type = "button" class = "cart-item-del-btn">
+                                    <i class = "fas fa-times"></i>
+                                  </button>
+                                </div> -->
+                                <!-- end of single item  -->
+                              </div>
+                              <div id="successMessage"></div> 
+                              <div class = "cart-total">
+                                <h3>Total: €</h3>
+                                <span id = "cart-total-value"></span>   
+                              </div>
+                            
+                              <div class="payment">
+                                <button class = "purchase-with-payment">Go to payment<i class="fas fa-angle-double-right"></i></button>
+                              </div>
+                              
+                    
+                            </div>
+                          </div>
                     </li>
                 </ul>
             </div>  
@@ -88,10 +119,13 @@
         <h1 class="lg-title">Ski equipment</h1>
         <p class="text-light">Skiing has been used for centuries as a means of transport in the snow. Nowadays, fun is one of the most important things, because skiing is one of the most popular winter sports. A suitable equipment must not be missing there. Skiing is considered to be an extremely versatile sport that offers new challenges for both beginners and advanced skiers. Since everyone has different preferences in winter sports, also in ski sports various sub-categories have formed. The same applies to these variants as to any other winter sport: only with the right equipment, from #ICE_BREAKERS, you are safe and can enjoy the snow to the fullest.</p>      
     </div>
-
-    <div class="product-items">
-        <div class="product" id="product">
-            
+    <div class="details-card-wrapper">
+        <div class="product-items">
+            <div class="product" id="product">
+                <div class="product-btn">
+                    
+                </div> 
+            </div>
         </div>
     </div>
 </div>
@@ -121,6 +155,7 @@
                 <div class="form_submitBtn">
                     <button id="submit">Submit</button>
                 </div>
+                <div id="successMessage"></div>
             </div>
             <div class="form2">
                 <div class="contact-adress">
@@ -177,5 +212,6 @@
 
 <script src="src/app.js" type="module"></script>
 <script src="src/skiing.js" type="module"></script>
+<script src="src/contact.js" type="module"></script>
 </body>
 </html>

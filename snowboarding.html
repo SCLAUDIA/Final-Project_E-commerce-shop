@@ -31,11 +31,42 @@
                     <li><a href="admin.html">Admin</a></li>
                     <li><a href="#contact">Contact</a></li>
                     <li>
-                        <div class="cart">
-                            <button type="button" id="cart_btn"> <a href="cart.html"><i class="fas fa-shopping-cart"></i></a> 
-                                <span id="cart_count_info">0</span>
+                        <div class = "cart">
+                            <button type = "button" id = "cart-btn">
+                              <i class = "fas fa-shopping-cart"></i>
+                              <span id = "cart-count-info"></span>
                             </button>
-                        </div>
+                            
+                            <div class = "cart-container">
+                              <div class = "cart-list">
+                                <!-- single item -->
+                                <!-- <div class = "cart-item">
+                                  <img src = "POZE PRODUSE/ACCESORII/4_AlpinaZupoDisneyStarWarsMulticolorSkiHelmet.jpg" alt = "product image">
+                                  <div class = "cart-item-info">
+                                    <h3 class = "cart-item-name">Ski Helmet</h3>
+                                    <span class = "cart-item-price">120.00 €</span>
+                                    <button type = "button" id="removeBtn">Remove Item</button>
+                                  </div>
+                
+                                  <button type = "button" class = "cart-item-del-btn">
+                                    <i class = "fas fa-times"></i>
+                                  </button>
+                                </div> -->
+                                <!-- end of single item  -->
+                              </div>
+                              <div id="successMessage"></div>
+                              <div class = "cart-total">
+                                <h3>Total: €</h3>
+                                <span id = "cart-total-value"></span>   
+                              </div>
+                            
+                              <div class="payment">
+                                <button class = "purchase-with-payment">Go to payment<i class="fas fa-angle-double-right"></i></button>
+                              </div>
+                                
+                    
+                            </div>
+                          </div>
                     </li>
                 </ul>
             </div>  
@@ -89,10 +120,11 @@
         <p class="text-light">It’s about to get real at altitude this snow season!
             In the hopes of an abundant snow year, do some fun prep to get your blood pumping and gear up for winter sports. Even though snowboarding is a relatively young sport, it has a colorful history. As you get ready, find in our shop, the best products for your hobby, so you can have an injury-free and fun season on the slopes.</p>      
     </div>
-
-    <div class="product-items">
-        <div class="product" id="product">
-            
+    <div class="details-card-wrapper">
+        <div class="product-items">
+            <div class="product" id="product">
+                
+            </div>
         </div>
     </div>
 </div>
@@ -122,6 +154,7 @@
                 <div class="form_submitBtn">
                     <button id="submit">Submit</button>
                 </div>
+                <div id="successMessage"></div>
             </div>
             <div class="form2">
                 <div class="contact-adress">
@@ -178,5 +211,6 @@
 
 <script src="src/app.js" type="module"></script>
 <script src="src/snowboarding.js" type="module"></script>
+<script src="src/contact.js" type="module"></script>
 </body>
 </html>

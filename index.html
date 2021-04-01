@@ -19,41 +19,68 @@
 </head>
 <body>
 <!-- Navigation bar -->
-    <section id="header">
-        <div class="navigation">
-            <div class="nav-bar" id="nav-bar">
-                <div class="nav-list">
-                    <a class="logo" href="index.html"><img src="./POZE PRODUSE/logo4.jpg" alt=""></a> 
-                    <ul class="ul_cart">
-                        <li><a class="current" href="index.html"><i class="fas fa-home"></i></a></li>
-                        <li><a href="#">Products <i class="fas fa-chevron-down"></i></a>
-                            <ul>
-                                <li><a href="skiing.html">Skiing</a></li>
-                                <li><a href="snowboarding.html">Snowboarding</a></li>
-                                <li><a href="accessories.html">Accessories</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="admin.html">Admin</a></li>
-                        <li><a href="#contact">Contact</a></li>
-                        <li>
-                            <div class="cart">
-                                <button type="button" id="cart_btn"> <a href="cart.html"><i class="fas fa-shopping-cart"></i></a> 
-                                    <span id="cart_count_info">0</span>
-                                </button>
+<section id="header">
+    <div class="navigation">
+        <div class="nav-bar" id="nav-bar">
+            <div class="nav-list">
+                <a class="logo" href="index.html"><img src="./POZE PRODUSE/logo4.jpg" alt=""></a> 
+                <ul class="ul_cart">
+                    <li><a class="current" href="index.html"><i class="fas fa-home"></i></a></li>
+                    <li><a href="#">Products <i class="fas fa-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="skiing.html">Skiing</a></li>
+                            <li><a href="snowboarding.html">Snowboarding</a></li>
+                            <li><a href="accessories.html">Accessories</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="admin.html">Admin</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li>
+                        <div class = "cart">
+                            <button type = "button" id = "cart-btn">
+                              <i class = "fas fa-shopping-cart"></i>
+                              <span id = "cart-count-info"></span>
+                            </button>
+                            
+                            <div class = "cart-container">
+                              <div class = "cart-list">
+                                <!-- single item -->
+                                <!-- <div class = "cart-item">
+                                  <img src = "POZE PRODUSE/ACCESORII/4_AlpinaZupoDisneyStarWarsMulticolorSkiHelmet.jpg" alt = "product image">
+                                  <div class = "cart-item-info">
+                                    <h3 class = "cart-item-name">Ski Helmet</h3>
+                                    <span class = "cart-item-price">120.00 €</span>
+                                    <button type = "button" id="removeBtn">Remove Item</button>
+                                  </div>
+                                </div> -->
+                                <!-- end of single item  -->
+                              </div>
+                              <div id="successMessage"></div>
+                              <div class = "cart-total">
+                                <h3>Total: €</h3>
+                                <span id = "cart-total-value"></span>   
+                              </div>
+                            
+                              <div class="payment">
+                                <button class = "purchase-with-payment">Go to payment<i class="fas fa-angle-double-right"></i></button>
+                              </div>
+                                
+                    
                             </div>
-                        </li>
-                    </ul>
-                </div>  
-            </div>
+                          </div>
+                    </li>
+                </ul>
+            </div>  
         </div>
-    </section>
+    </div>
+</section>
 <!-- End of Navigation bar -->
 <!-- Home Page -->
 <div class="home-page">
     <div class="cover">
       <h1>Freeze the slopes with our products</h1>
       <button class="order-btn" id="order-btn" onclick="window.location.href='skiing.html'">
-       <small>SHOP NOW</small> 
+       <small class="shop-now">SHOP NOW<i class="fas fa-angle-double-right"></i></small> 
       </button>
     </div>
   </div>
@@ -105,9 +132,11 @@
         </div>
     </div>
 <!-- End of Categories Section -->
+<div class="details-card-wrapper" id="index-wrapper">
     <div class="send_photo">
         <p>Show us that you enjoy our products and you can get the chance to be on the cover!</p>
     </div>
+</div>
 <!-- Start of Glide Carussel Section -->
     <div class="images glide">
         <div class="glide__track" data-glide-el="track">
@@ -203,6 +232,7 @@
                     <div class="form_submitBtn">
                         <button id="submit">Submit</button>
                     </div>
+                    <div id="successMessage"></div>
                 </div>
                 <div class="form2">
                     <div class="contact-adress">
@@ -259,7 +289,8 @@
 
 
 
- 
+    
     <script src="src/app.js" type="module"></script>
+    <script src="src/contact.js" type="module"></script>
 </body>
 </html>

@@ -7,6 +7,7 @@ class UI{
         this.description = document.getElementById('description');
         this.category = document.getElementById('category');
         this.detailsCardPageDiv =document.getElementById('detailsCardPage'); 
+        this.cartListDiv = document.querySelector(".table-cart");
     }
 
     // show all products
@@ -21,10 +22,7 @@ class UI{
                     <br><br>
                 </div>
                 <div class="product-btn">
-                    <button type="button" class="btn-cart">Add to cart
-                        <span><i class="fas fa-shopping-cart"></i></span>
-                    </button>
-                    <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="btn-cart details-cart">View details</button>
+                    <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart">View details</button>
                 </div>
             </div>
             <div class="product-info">
@@ -44,7 +42,6 @@ class UI{
     })
     }
 
-
     // show Snowboarding products
     showSnowboardingProducts(product){
         
@@ -59,10 +56,7 @@ class UI{
                             <br><br>
                         </div>
                         <div class="product-btn">
-                            <button type="button" class="btn-cart">Add to cart
-                                <span><i class="fas fa-shopping-cart"></i></span>
-                            </button>
-                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="btn-cart details-cart">View details</button>
+                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart">View details</button>
                         </div>
                     </div>
                     <div class="product-info">
@@ -97,10 +91,7 @@ class UI{
                             <br><br>
                         </div>
                         <div class="product-btn">
-                            <button type="button" class="btn-cart">Add to cart
-                                <span><i class="fas fa-shopping-cart"></i></span>
-                            </button>
-                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="btn-cart details-cart">View details</button>
+                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart">View details</button>
                         </div>
                     </div>
                     <div class="product-info">
@@ -120,9 +111,6 @@ class UI{
             } 
         })
     }
-
-        
-
 
     // show Accessories products
     showAccessoriesProducts(product){
@@ -137,10 +125,7 @@ class UI{
                             <br><br>
                         </div>
                         <div class="product-btn">
-                            <button type="button" class="btn-cart">Add to cart
-                                <span><i class="fas fa-shopping-cart"></i></span>
-                            </button>
-                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="btn-cart details-cart">View details</button>
+                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart">View details</button>
                         </div>
                     </div>
                     <div class="product-info">
@@ -160,7 +145,6 @@ class UI{
             } 
         })
     }
-
 
     // show details product
     showDetails(product){
@@ -214,12 +198,13 @@ class UI{
         </div>`;
         this.detailsCardPageDiv.innerHTML=output;
     }
-     
+
 }
-        
+
+
+
 
     
 
 export const ui = new UI();
-
 
