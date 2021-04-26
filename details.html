@@ -31,40 +31,12 @@
                     <li><a href="admin.html">Admin</a></li>
                     <li><a href="#contact">Contact</a></li>
                     <li>
-                        <div class = "cart">
-                            <button type = "button" id = "cart-btn">
-                              <i class = "fas fa-shopping-cart"></i>
-                              <span id = "cart-count-info"></span>
-                            </button>
-                            
-                            <div class = "cart-container">
-                              <div class = "cart-list">
-                                <!-- single item -->
-                                <!-- <div class = "cart-item">
-                                  <img src = "POZE PRODUSE/ACCESORII/4_AlpinaZupoDisneyStarWarsMulticolorSkiHelmet.jpg" alt = "product image">
-                                  <div class = "cart-item-info">
-                                    <h3 class = "cart-item-name">Ski Helmet</h3>
-                                    <span class = "cart-item-price">120.00 €</span>
-                                    <button type = "button" id="removeBtn">Remove Item</button>
-                                  </div>
-                
-                                  <button type = "button" class = "cart-item-del-btn">
-                                    <i class = "fas fa-times"></i>
-                                  </button>
-                                </div> -->
-                                <!-- end of single item  -->
-                              </div>
-                              <div id="successMessage"></div>
-                              <div class = "cart-total">
-                                <h3>Total: €</h3>
-                                <span id = "cart-total-value"></span>   
-                              </div>
-                            
-                              <div class="payment">
-                                <button class = "purchase-with-payment">Go to payment<i class="fas fa-angle-double-right"></i></button>
-                              </div>
-                                
-                    
+                       
+                            <div class = "cart-btn">
+                                <span class="nav-icon">
+                                    <i class="fas fa-shopping-cart"></i>
+                                </span>
+                                <div class="cart-items">0</div>
                             </div>
                           </div>
                     </li>
@@ -81,6 +53,44 @@
         
 </div> 
 <!-- End of details card -->
+
+<!-- Start of cart card -->
+<div class="cart-overlay">
+    <div class="cart">
+        <span class="close-cart">
+            <i class="fas fa-times-circle"></i>
+        </span>
+        <h2>your cart</h2>
+        <div class="cart-content">
+            <!-- cart-item -->
+            <!-- <div class="cart-item">
+                <img src="./POZE PRODUSE/ACCESORII/4_AlpinaZupoDisneyStarWarsMulticolorSkiHelmet.jpg" alt="img">
+                <div>
+                    <h4>Ski Helmet</h4>
+                    <h5>125 €</h5>
+                    <div class="chevron">
+                        <p>Quantity: </p>
+                        <i class="fas fa-chevron-left"></i>
+                        <p class="item-amount">2</p>
+                        <i class="fas fa-chevron-right"></i>
+                    </div>
+                    <span class="remove-item">Delete Product</span>
+                    
+                </div>
+                
+            </div> -->
+            <!-- end of cart-item -->
+        </div>
+        <div class="cart-footer">
+           <h3>Total Price: € <span class="cart-total">0</span> </h3>
+           <div id="successMessage"></div> 
+           <button class="clear-cart banner-btn">GO TO PAYMENT</button>
+        </div>
+    </div>
+</div>
+
+
+<!-- End of cart card -->
 
 <!--Start Services Section-->
 <div class="row_services-products-pg">

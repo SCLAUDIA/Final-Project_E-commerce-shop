@@ -10,7 +10,7 @@ class UI{
         this.cartListDiv = document.querySelector(".table-cart");
     }
 
-    // show all products
+// SHOW ALL PRODUCTS
     showProducts(product){
     let output = '';
     product.forEach(product => {
@@ -22,7 +22,7 @@ class UI{
                     <br><br>
                 </div>
                 <div class="product-btn">
-                    <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart">View details</button>
+                    <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart"><i class="far fa-eye"></i> View details</button>
                 </div>
             </div>
             <div class="product-info">
@@ -42,9 +42,8 @@ class UI{
     })
     }
 
-    // show Snowboarding products
+// SHOW SNOWBOARDING PRODUCTS
     showSnowboardingProducts(product){
-        
         let output = '';
         product.forEach((product) => {
             if (product.category == "snowboard"){
@@ -56,7 +55,7 @@ class UI{
                             <br><br>
                         </div>
                         <div class="product-btn">
-                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart">View details</button>
+                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart"><i class="far fa-eye"></i> View details</button>
                         </div>
                     </div>
                     <div class="product-info">
@@ -78,7 +77,7 @@ class UI{
         })
     }
 
-    // show Skiing products
+// SHOW SKIING PRODUCTS
     showSkiingProducts(product){
         let output = '';
         product.forEach((product) => {
@@ -91,7 +90,7 @@ class UI{
                             <br><br>
                         </div>
                         <div class="product-btn">
-                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart">View details</button>
+                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart"><i class="far fa-eye"></i> View details</button>
                         </div>
                     </div>
                     <div class="product-info">
@@ -112,7 +111,7 @@ class UI{
         })
     }
 
-    // show Accessories products
+// SHOW ACCESSORIES PRODUCTS
     showAccessoriesProducts(product){
         let output = '';
         product.forEach((product) => {
@@ -125,7 +124,7 @@ class UI{
                             <br><br>
                         </div>
                         <div class="product-btn">
-                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart">View details</button>
+                            <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="details-cart"><i class="far fa-eye"></i> View details</button>
                         </div>
                     </div>
                     <div class="product-info">
@@ -146,10 +145,9 @@ class UI{
         })
     }
 
-    // show details product
+// SHOW DETAILS PRODUCTS
     showDetails(product){
-        let output = ''; 
-        
+        let output = '';  
         output = `
         <div class="details-card-wrapper">
             <div class="details-card">
@@ -176,14 +174,11 @@ class UI{
                     <small>${product.stock}</small>
                 </div>
                 <div class="purchase-info">
-                    <p>Size</p>
-                    <input placeholder="Quantity" type="number" min='0' >
-                        <select name="size" id="size">
-                            <option>${product.size}</option>
-                        </select>
+                    
+                       
                     <br>
-                    <button type="button" class="details-btn-cart">Add to cart
-                        <span><i class="fas fa-shopping-cart"></i></span>
+                    <button type="button" class="details-btn-cart" data-id=${product.id}>Add to cart
+                        
                     </button>
                 </div>
                 <div class="product-price">
@@ -199,12 +194,34 @@ class UI{
         this.detailsCardPageDiv.innerHTML=output;
     }
 
+// SAVE PRODUCTS IN LS
+    saveProductsInLocalStorage(products){
+        localStorage.setItem("products", JSON.stringify(products));
+    }
+
+// GET PRODUCTS FROM LS
+    getProductsFromLocalStorage(id){
+        let products = JSON.parse(localStorage.getItem('products'));
+        return products.find(product => product.id === id);
+    }
+
+// SAVE CART IN LS
+    saveCart(cart){
+        localStorage.setItem('cart', JSON.stringify(cart))
+    }
+
+// GET CART ITEMS FROM LS
+    getCart(){
+        return localStorage.getItem('cart') ? JSON.parse(localStorage.getItem('cart')) : [];
+    }
+
 }
 
 
 
 
-    
 
+    
+// export const storage = new Storage();
 export const ui = new UI();
 

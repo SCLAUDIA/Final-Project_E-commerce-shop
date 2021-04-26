@@ -5,19 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>E-commerce shop: ICE BREAKERS</title>
-    <!-- <script src="glide/glide.min.js"></script> -->
     <link rel="stylesheet" href="glide/glide.core.min.css">
     <link rel="stylesheet" href="glide/glide.theme.min.css">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
-    <!-- <link rel="stylesheet" href="./node_modules/font-awesome/css/font-awesome.min.css"> -->
-    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700&display=swap" rel="stylesheet">
-    <!-- <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css"> -->
-    <!-- <link rel="stylesheet" href="./node_modules/bootswatch/dist/darkly/bootstrap.min.css"> -->
-   
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700&display=swap" rel="stylesheet">   
 </head>
 <body>
+
 <!-- Navigation bar -->
 <section id="header">
     <div class="navigation">
@@ -36,36 +32,12 @@
                     <li><a href="admin.html">Admin</a></li>
                     <li><a href="#contact">Contact</a></li>
                     <li>
-                        <div class = "cart">
-                            <button type = "button" id = "cart-btn">
-                              <i class = "fas fa-shopping-cart"></i>
-                              <span id = "cart-count-info"></span>
-                            </button>
-                            
-                            <div class = "cart-container">
-                              <div class = "cart-list">
-                                <!-- single item -->
-                                <!-- <div class = "cart-item">
-                                  <img src = "POZE PRODUSE/ACCESORII/4_AlpinaZupoDisneyStarWarsMulticolorSkiHelmet.jpg" alt = "product image">
-                                  <div class = "cart-item-info">
-                                    <h3 class = "cart-item-name">Ski Helmet</h3>
-                                    <span class = "cart-item-price">120.00 €</span>
-                                    <button type = "button" id="removeBtn">Remove Item</button>
-                                  </div>
-                                </div> -->
-                                <!-- end of single item  -->
-                              </div>
-                              <div id="successMessage"></div>
-                              <div class = "cart-total">
-                                <h3>Total: €</h3>
-                                <span id = "cart-total-value"></span>   
-                              </div>
-                            
-                              <div class="payment">
-                                <button class = "purchase-with-payment">Go to payment<i class="fas fa-angle-double-right"></i></button>
-                              </div>
-                                
-                    
+                       
+                            <div class = "cart-btn">
+                                <span class="nav-icon">
+                                    <i class="fas fa-shopping-cart"></i>
+                                </span>
+                                <div class="cart-items">0</div>
                             </div>
                           </div>
                     </li>
@@ -75,6 +47,7 @@
     </div>
 </section>
 <!-- End of Navigation bar -->
+
 <!-- Home Page -->
 <div class="home-page">
     <div class="cover">
@@ -132,11 +105,13 @@
         </div>
     </div>
 <!-- End of Categories Section -->
+
 <div class="details-card-wrapper" id="index-wrapper">
     <div class="send_photo">
         <p>Show us that you enjoy our products and you can get the chance to be on the cover!</p>
     </div>
 </div>
+
 <!-- Start of Glide Carussel Section -->
     <div class="images glide">
         <div class="glide__track" data-glide-el="track">
@@ -170,6 +145,43 @@
           </div>
     </div>
 <!-- End of Glide Carussel Section --> 
+
+<!-- Start of cart card -->
+<div class="cart-overlay">
+    <div class="cart">
+        <span class="close-cart">
+            <i class="fas fa-times-circle"></i>
+        </span>
+        <h2>your cart</h2>
+        <div class="cart-content">
+            <!-- cart-item -->
+            <!-- <div class="cart-item">
+                <img src="./POZE PRODUSE/ACCESORII/4_AlpinaZupoDisneyStarWarsMulticolorSkiHelmet.jpg" alt="img">
+                <div>
+                    <h4>Ski Helmet</h4>
+                    <h5>125 €</h5>
+                    <div class="chevron">
+                        <p>Quantity: </p>
+                        <i class="fas fa-chevron-left"></i>
+                        <p class="item-amount">2</p>
+                        <i class="fas fa-chevron-right"></i>
+                    </div>
+                    <span class="remove-item">Delete Product</span>
+                    
+                </div>
+                
+            </div> -->
+            <!-- end of cart-item -->
+        </div>
+        <div class="cart-footer">
+            <h3>Total Price: € <span class="cart-total">0</span> </h3>
+            <div id="successMessage"></div> 
+            <button class="clear-cart banner-btn">GO TO PAYMENT</button>
+         </div>
+    </div>
+</div>
+<!-- End of cart card -->
+
 <!--Start Services Section-->
     <div class="row_services">
         <div class="col_livrare">
@@ -206,8 +218,8 @@
             </div>
         </div>
     </div>
-
 <!--End Services Section-->
+
 <!--Start Contact section-->
     <div class="contact" id="contact">
         <div class="contact-form">
@@ -267,7 +279,8 @@
             </form>
         </div>
     </div>
-  <!--End of Contact Section-->
+<!--End of Contact Section-->
+
 <!--Start of Footer Section-->
     <section id="footer">
         <div class="footer container">
@@ -286,11 +299,7 @@
         </div>
     </section>
 <!--End of Footer section-->
-
-
-
-    
-    <script src="src/app.js" type="module"></script>
-    <script src="src/contact.js" type="module"></script>
+<script src="src/app.js" type="module"></script>
+<script src="src/contact.js" type="module"></script>
 </body>
 </html>
